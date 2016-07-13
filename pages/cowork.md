@@ -32,7 +32,12 @@ We offer three membership levels so you can participate as best suits you and yo
     </tr>
     <tr>
         <td><b>Friend Membership</b></td>
-        <td>Flexible seating for 5 working days in a month, unlimited mornings/evenings (pre-11am, post 6pm) and unlimited weekends</td>
+        <td>Flexible seating for 5 working days in a month and unlimited weekends</td>
+        <td>₹2000</td>
+    </tr>
+    <tr>
+        <td><b>Off-Peak Membership</b></td>
+        <td>Flexible seating for unlimited mornings/evenings (pre-11am, post 6pm) and unlimited weekends</td>
         <td>₹2000</td>
     </tr>
 
