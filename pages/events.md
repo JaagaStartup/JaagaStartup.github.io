@@ -89,7 +89,3 @@ We have a choice of three spaces with different capacities and purposes as shown
 - We have a projector, basic sound system, and WiFi access that you may use during your event. We ask that you bring your own laptop for use with the projector. It is your responsibility as an event organizer to come over, check our equipment and facilities and make arrangements from outside well in advance for anything additional or specialized that you may need.
 
 <br/>
-
-<div>
-  	<a href="http://iamai.in/events/appfest" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/IAMAI-appfest.gif" alt="IAMAI App Fest.gif"></a>
-</div>
