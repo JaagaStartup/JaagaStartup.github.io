@@ -21,7 +21,7 @@ widget2:
   text: 'We love hosting interesting, creative organisations and events. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem. Get in touch if you need a central location to host your audience!'
 widget3:
   title: "Incubate"
-  url: '/sustain/'
+  url: 'http://jaagasustain.in/incubate'
   image: sustain-small.png
   text: "We support entrepreneurs using technology to address environmental challenges with free coworking space and access to technology platforms, mentors and partners. Apply to solve real world problems around us."
 #
@@ -53,4 +53,3 @@ homepage: true
 	<table><tbody><tr><td><b>Gold Membership</b></td><td>Dedicated seating + locker for teams in a room</td><td>₹5000</td></tr><tr><td><b>Silver Membership</b></td><td>Flexible seating for a whole month</td><td>₹4000</td></tr><tr><td><b>Friend Membership</b></td><td>Flexible seating for 5 working days in a month and unlimited weekends</td><td>₹2000</td></tr><tr><td><b>Off-Peak Membership</b></td><td>Flexible seating for unlimited mornings/evenings (pre-11am, post 6pm) and unlimited weekends</td><td>₹2000</td></tr></tbody></table>
 
 </div>
-

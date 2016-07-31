@@ -11,9 +11,9 @@
   side: left
 
 - title: "Sustain"
-  url: "/sustain/"
+  url: "http://jaagasustain.in/incubate/"
   side: left
-  
+
 - title: "About"
   url: "/about/"
   side: left
@@ -33,4 +33,3 @@
 - title: "Sign in"
   url: "http://community.jaagastartup.in"
   side: right
-
