@@ -17,7 +17,7 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family. Our mission is to 
   	<img src="{{ site.url }}{{ site.baseurl }}/images/kupendra.png" alt="Kupendra">
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://www.facebook.com/kupendra.kumar.90">Kupendra</a></b> manages our coworking facilities and prefers to be called Kumar. Kupendra is from Bangalore, Karnataka, likes plants and believes lemons keep you healthy.
+  	<b><a href="https://www.facebook.com/kupendra.kumar.90">Kupendra</a></b> manages our coworking facilities and prefers to be called Kumar. Kumar is from Bangalore, Karnataka, likes plants and believes lemons keep you healthy.
   </div>
 </div>
 <br>
@@ -47,7 +47,7 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family. Our mission is to 
   	<img src="{{ site.url }}{{ site.baseurl }}/images/archana.png" alt="Archana">
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/archana-prasad-5312531">Archana</a></b> founded Jaaga in 2009 as a common ground for activists, artists, designers and technologists. She helps guide the vision for the organisation and believes we need more designers in the space. Archana is from Bangalore, Karnataka.
+  	<b><a href="https://in.linkedin.com/in/archana-prasad-5312531">Archana</a></b> founded Jaaga in 2009 as a common ground for activists, artists, designers and technologists. She helps guide the vision for the organisation and believes we need more designers in the community. Archana is from Bangalore, Karnataka.
   </div>
 </div>
 <br>
