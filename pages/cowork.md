@@ -41,24 +41,23 @@ We offer three membership levels so you can participate as best suits you and yo
 
 ## Programs
 
-- Expert-led orientation for all incoming coworkers covering a range of essential topics
 - Peer and expert mentoring via our [collaborative platform](http://community.jaagastartup.in)
 - Our own custom product management platform to help you make the right decisions
-- Access to a large pool of skilled resources to help you build your product/service better, faster
 - Collaboration and networking facilitated through daily lunches, weekly learning sessions, fortnightly review meetings and monthly happy hours
-- Monthly [design sprints](http://www.gv.com/sprint/) with our customised framework for Indian startups
+- Access to a large pool of skilled resources to help you build your product/service better, faster
 
 ## Perks
 
 - Free credits from AWS, IBM, Microsoft Azure, PayTM, Freshdesk, Exotel and others
 - Free job postings to LinkedIn and other portals through our custom hiring portal
-- Free access to hardware kitchen with 3D printers, development kits and other prototyping tools
-- Preferential rates with banks, accountants and legal experts
+- Free access to a hardware prototyping lab with 3D printers, development kits, soldering station and other tools
+- Preferential rates with banks, accountants, legal and other experts
+- Access to expert-led workshops and 1-1s covering a range of essential topics
 
 ## Facilities
 
-- Free access to multiple meeting + ideation spaces and a dedicated conference room
-- Lots of open spaces - lounge, dining area, terraces (we believe in breathing room)
+- Free access to multiple meeting + ideation spaces and a dedicated tele-conference room
+- Lots of open spaces with greenery all around - lounge, dining area, terraces
 - Kitchen well-stocked with food, cooking appliances and unlimited tea/coffee/purified drinking water
 
 
