@@ -9,3 +9,8 @@
   url: "http://jaaga.in/study/"
   class: "sitemap-link"
   title: "Jaaga Study"
+
+- name: "Jaaga Sustain"
+  url: "http://jaagasustain.in"
+  class: "sitemap-link"
+  title: "Jaaga Sustain"
