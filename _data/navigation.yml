@@ -26,10 +26,6 @@
   url: "/about/"
   side: left
 
-- title: "Timeline"
-  url: "/timeline/"
-  side: left
-
 - title: "Contact"
   url: "/contact/"
   side: left
