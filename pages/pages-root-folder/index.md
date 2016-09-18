@@ -53,17 +53,17 @@ homepage: true
 <table>
     <tr>
         <td><b>Steady Jaagarnaut</b></td>
-        <td>1 month membership - dedicated seating + locker</td>
+        <td>1 month membership: dedicated seating</td>
         <td>₹5000</td>
     </tr>   
     <tr>
         <td><b>Flexible Jaagarnaut</b></td>
-        <td>1 month membership - flexible seating</td>
+        <td>1 month membership: flexible seating</td>
         <td>₹4000</td>
     </tr>
     <tr>
         <td><b>Friendly Jaagarnaut</b></td>
-        <td>1 month membership - flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays</td>
+        <td>1 month membership: flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays</td>
         <td>₹2000</td>
     </tr>
 
