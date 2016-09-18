@@ -10,11 +10,19 @@
   url: "/events/"
   side: left
 
-- title: "Sustain"
+- title: "Incubate"
   url: "http://jaagasustain.in/incubate/"
   side: left
 
+- title: "Experts"
+  url: "/experts/"
+  side: left
+
 - title: "About"
+  url: "/about/"
+  side: left
+
+- title: "Timeline"
   url: "/about/"
   side: left
 
@@ -30,6 +38,6 @@
   url: "http://gallery.jaagastartup.in"
   side: right
 
-- title: "Sign in"
+- title: "Community"
   url: "http://community.jaagastartup.in"
   side: right
