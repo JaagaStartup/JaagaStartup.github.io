@@ -14,6 +14,10 @@
   url: "http://jaagasustain.in/incubate/"
   side: left
 
+- title: "Workshops"
+  url: "/workshops/"
+  side: left
+
 - title: "Experts"
   url: "/experts/"
   side: left
