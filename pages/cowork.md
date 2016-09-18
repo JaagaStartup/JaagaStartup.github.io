@@ -41,10 +41,6 @@ We offer three membership levels so you can participate as best suits you and yo
 
 </table>
 
-<div class="small-12 text-center columns">
-<a class="button large radius alert" href="https://www.instamojo.com/jaagastartup/?ref=profile_bar">Online Store</a>
-</div>
-
 
 ## Facilities
 
