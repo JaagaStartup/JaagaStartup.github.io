@@ -21,23 +21,18 @@ We offer three membership levels so you can participate as best suits you and yo
 
 <table>
     <tr>
-        <td><b>Gold Membership</b></td>
-        <td>Dedicated seating + locker for teams in a room</td>
+        <td><b>Steady Jaagarnaut</b></td>
+        <td>1 month membership - dedicated seating + locker</td>
         <td>₹5000</td>
     </tr>   
     <tr>
-        <td><b>Silver Membership</b></td>
-        <td>Flexible seating for a whole month</td>
+        <td><b>Flexible Jaagarnaut</b></td>
+        <td>1 month membership - flexible seating</td>
         <td>₹4000</td>
     </tr>
     <tr>
-        <td><b>Friend Membership</b></td>
-        <td>Flexible seating for 5 working days in a month and unlimited weekends</td>
-        <td>₹2000</td>
-    </tr>
-    <tr>
-        <td><b>Off-Peak Membership</b></td>
-        <td>Flexible seating for unlimited mornings/evenings (pre-11am, post 6pm) and unlimited weekends</td>
+        <td><b>Friendly Jaagarnaut</b></td>
+        <td>1 month membership - flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays</td>
         <td>₹2000</td>
     </tr>
 
