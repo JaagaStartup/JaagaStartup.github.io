@@ -47,7 +47,7 @@ We understand the skill gaps amongst startups and work with a pool of experts to
   	<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/saket.jpg" alt="Saket"> -->
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/saket-bardia-ab623012">Saket</a></b> is a chartered accountant and go to person for all compliance related queries. He ensures our startups are kosher and efficient. 
+  	<b><a href="https://in.linkedin.com/in/saket-bardia-ab623012">Saket</a></b> is a chartered accountant and our go-to person for all compliance related queries. He ensures our startups are kosher and efficient. 
   </div>
 </div>
 <br>
