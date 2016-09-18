@@ -10,17 +10,12 @@
   url: "/events/"
   side: left
 
-- title: "Incubate"
-  url: "http://jaagasustain.in/incubate/"
-  side: left
-
-- title: "Workshops"
-  url: "/workshops/"
-  side: left
-
 - title: "Experts"
   url: "/experts/"
   side: left
+  dropdown:
+  - title: "Workshops"
+    url: "/workshops/"
 
 - title: "About"
   url: "/about/"
@@ -29,6 +24,11 @@
 - title: "Contact"
   url: "/contact/"
   side: left
+
+
+- title: "Incubate"
+  url: "http://jaagasustain.in/incubate/"
+  side: right
 
 - title: "Blog"
   url: "http://blog.jaagastartup.in"
@@ -42,6 +42,6 @@
   url: "http://community.jaagastartup.in"
   side: right
 
-- title: "Online Store"
+- title: "Store"
   url: "https://www.instamojo.com/jaagastartup/?ref=profile_bar"
   side: right
