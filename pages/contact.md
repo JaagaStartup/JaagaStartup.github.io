@@ -7,7 +7,7 @@ teaser: "We are easy to reach!"
 permalink: "/contact/"
 ---
 
-- Email us at [**startup@jaaga.in**](mailto:startup@jaaga.in?Subject=Hello%20Jaaga%20Startup%21)
+- Email us at [**hello@jaagastartup.in**](mailto:hello@jaagastartup.in?Subject=Hello%20Jaaga%20Startup%21)
 - Like us on [**Facebook**](https://www.facebook.com/JaagaStartup)
 - Follow us on [**Twitter**](https://twitter.com/JaagaStartup)
 - For our urban arts initiative, head over to [**Jaaga DNA**](http://jaaga.in/dna)
