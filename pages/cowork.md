@@ -19,6 +19,8 @@ We are a curated entrepreneurial community who share skills, networks and knowle
 
 We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 15% is charged extra.
 
+_NB - Please do not purchase membership using links below until we have confirmed._
+
 <table>
     <tr>
         <td><b><a href="https://www.instamojo.com/jaagastartup/gold-membership-4246b/" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="Steady Jaagarnaut"></a>
