@@ -27,7 +27,7 @@ We understand the skill gaps amongst startups and work with a pool of experts to
   	<img src="{{ site.url }}{{ site.baseurl }}/images/vivek.jpg" alt="Vivek">
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/vivekv1302">Vivek</a></b> is a product manager and a firm believer in using the right metrics. He's helping our startups understand and build better products.
+  	<b><a href="https://in.linkedin.com/in/vivekv1302">Vivek</a></b> is a product manager and a firm believer in using the right metrics. He's building our product management platform for startups to understand and build better products.
   </div>
 </div>
 <br>
@@ -37,7 +37,7 @@ We understand the skill gaps amongst startups and work with a pool of experts to
   	<img src="{{ site.url }}{{ site.baseurl }}/images/kapil.jpg" alt="Kapil">
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/smartmarketingtribe">Kapil</a></b> is a marketing geek and strategic online marketing trainer. He helps our startups build audiences from day 1. 
+  	<b><a href="https://in.linkedin.com/in/smartmarketingtribe">Kapil</a></b> is a marketing geek and strategic online marketing trainer. He helps our startups optimise their digital outreach and build audiences from day 1. 
   </div>
 </div>
 <br>
@@ -47,7 +47,7 @@ We understand the skill gaps amongst startups and work with a pool of experts to
   	<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/saket.jpg" alt="Saket"> -->
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/saket-bardia-ab623012">Saket</a></b> is a chartered accountant and our go-to person for all compliance related queries. He ensures our startups are kosher and efficient. 
+  	<b><a href="https://in.linkedin.com/in/saket-bardia-ab623012">Saket</a></b> is a chartered accountant and our go-to expert for all compliance related queries. He ensures our startups stay kosher and efficient. 
   </div>
 </div>
 <br>
