@@ -62,7 +62,6 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family. Our mission is to 
 </div>
 
 <br>
-- - -
 
 # Timeline
 
