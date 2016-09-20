@@ -12,7 +12,8 @@ permalink: "/cowork/"
 We are a curated entrepreneurial community who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.
 
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="https://podio.com/webforms/15849774/1063933">Join our community</a>
+<!-- <a class="button large radius alert" href="https://podio.com/webforms/15849774/1063933">Join our community</a> -->
+<a class="button large radius alert" href="/apply/">Join our community</a>
 </div>
 
 ## Pricing
