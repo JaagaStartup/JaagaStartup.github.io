@@ -24,8 +24,10 @@ permalink: "/apply/"
 
 	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;jaagastartup.in&#x2f;cowork&#x2f;' /> 
 	 <!-- Do not remove this code. -->
-	<input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
-	<input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
+	<input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'>
+	<!-- </input> -->
+	<input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'>
+	<!-- </input> -->
 	 <!-- Do not remove this code. -->
 	<style>
 		tr , td { 
@@ -34,7 +36,7 @@ permalink: "/apply/"
 			border-width:0px;
 			}
 	</style>
-	<table style='width:600px;background-color:white;color:black'>
+	<table style='width:600px;background-color:#ffffff;color:black'>
 
 	<tr><td colspan='2' style='text-align:left;color:black;font-family:Calibri;font-size:15px;'><strong>Join the Jaaga Startup Community</strong></td></tr>
 
@@ -46,12 +48,6 @@ permalink: "/apply/"
 
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>Mobile</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Mobile' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>Company</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
-
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
-
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>No. of coworking memberships needed</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='9' name='No of Employees' /></td></tr>
-
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>What skills are you willing and able to share&#x3f;<span style='color:red;'>*</span></td><td style='width:250px;'>
 		<select style='width:250px;' name='LEADCF1' multiple>
 			<option value='Design'>Design</option>
@@ -62,6 +58,12 @@ permalink: "/apply/"
 			<option value='Financial&#x20;planning&#x20;and&#x20;funding'>Financial planning and funding</option>
 			<option value='Operations&#x20;&#x28;HR,&#x20;legal,&#x20;accounting,&#x20;banking...&#x29;'>Operations &#x28;HR, legal, accounting, banking...&#x29;</option>
 		</select></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>Company</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>No. of coworking memberships needed</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='9' name='No of Employees' /></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
 		<input style='font-size:13px;color:#131307' type='submit' value='Submit' />
@@ -112,5 +114,5 @@ permalink: "/apply/"
 		trackVisitor();
 	}
 </script><script type='text/javascript' id='VisitorTracking'>var $zoho= $zoho || {salesiq:{values:{},ready:function(){$zoho.salesiq.floatbutton.visible('hide');}}};var d=document;s=d.createElement('script');s.type='text/javascript';s.defer=true;s.src='https://salesiq.zoho.com/null/float.ls?embedname=jaagastartup###null';t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);function trackVisitor(){try{if($zoho){var LDTuvidObj = document.forms['WebToLeads2110132000000115188']['LDTuvid'];if(LDTuvidObj){LDTuvidObj.value = $zoho.salesiq.visitor.uniqueid();}var firstnameObj = document.forms['WebToLeads2110132000000115188']['First Name'];if(firstnameObj){name = firstnameObj.value +' '+name;}$zoho.salesiq.visitor.name(name);var emailObj = document.forms['WebToLeads2110132000000115188']['Email'];if(emailObj){email = emailObj.value;$zoho.salesiq.visitor.email(email);}}} catch(e){}}</script>
-	</form>
+	<!-- </form> -->
 </div>
