@@ -48,7 +48,7 @@ permalink: "/apply/"
 
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>Mobile</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Mobile' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>What skills are you willing and able to share&#x3f;<span style='color:red;'>*</span></td><td style='width:250px;'>
+	<tr><td  height="100" style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>What skills are you willing and able to share&#x3f;<span style='color:red;'>*</span></td><td style='width:250px;'>
 		<select style='width:250px;' name='LEADCF1' multiple>
 			<option value='Design'>Design</option>
 			<option value='Technology'>Technology</option>
@@ -66,8 +66,8 @@ permalink: "/apply/"
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:13px;font-family:Calibri;width:200px;'>No. of coworking memberships needed</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='9' name='No of Employees' /></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
-		<input style='font-size:13px;color:#131307' type='submit' value='Submit' />
-		<input type='reset' style='font-size:13px;color:#131307' value='Reset' />
+		<input style='font-size:13px;color:#131307' type='submit' value='Apply' />
+		<!-- <input type='reset' style='font-size:13px;color:#131307' value='Reset' /> -->
 	    </td>
 	</tr>
    </table>
