@@ -7,6 +7,12 @@ teaser: ""
 permalink: "/apply/"
 ---
 
+<!-- Change the width and height values to suit you best -->
+<!-- <div class="typeform-widget" data-url="https://jaagastartup.typeform.com/to/x78SQJ" data-text="Apply to Jaaga Startup Community" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=x78SQJ&amp;utm_source=typeform.com-4619501-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div> -->
+
+
 <!-- Note :
    - You can modify the font style and form style to suit your website. 
    - Code lines with comments “Do not remove this code”  are required for the form to work properly, make sure that you do not remove these lines of code. 
@@ -24,8 +30,10 @@ permalink: "/apply/"
 
 	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;jaagastartup.in&#x2f;cowork&#x2f;' /> 
 	 <!-- Do not remove this code. -->
-	<input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
-	<input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
+	<input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'>
+	<!-- </input> -->
+	<input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'>
+	<!-- </input> -->
 	 <!-- Do not remove this code. -->
 	<style>
 		tr , td { 
@@ -34,20 +42,21 @@ permalink: "/apply/"
 			border-width:0px;
 			}
 	</style>
-	<table style='width:600px;background-color:#ffffff;color:black'>
 
-	<tr><td colspan='2' style='text-align:left;color:black;font-family:Tahoma;font-size:16px;'><strong>Apply to Jaaga Startup Community</strong></td></tr>
+	<h1>Join the Jaaga Startup Community</h1>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>First Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='40' name='First Name' /></td></tr>
+	<table style='width:600px;background-color:#ffffff;color:black;border:0'>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Last Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='80' name='Last Name' /></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>First Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='40' name='First Name' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Email<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Email' /></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>Last Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='80' name='Last Name' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Mobile</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Mobile' /></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>Email<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Email' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>What skills are you willing and able to share&#x3f;<span style='color:red;'>*</span></td><td style='width:250px;'>
-		<select style='width:250px;' name='LEADCF1' multiple>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>Mobile</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Mobile' /></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>What skills are you willing and able to share&#x3f;<span style='color:red;'>*</span></td><td style='width:250px;'>
+		<select style='width:275px;height:150px' name='LEADCF1' multiple>
 			<option value='Design'>Design</option>
 			<option value='Technology'>Technology</option>
 			<option value='Product&#x20;Management'>Product Management</option>
@@ -56,8 +65,8 @@ permalink: "/apply/"
 			<option value='Operations&#x20;&#x28;Accounting,&#x20;HR,&#x20;Legal&#x29;'>Operations &#x28;Accounting, HR, Legal&#x29;</option>
 		</select></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>What skills are you looking for from our community<span style='color:red;'>*</span></td><td style='width:250px;'>
-		<select style='width:250px;' name='LEADCF2' multiple>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>What skills are you looking for from our community<span style='color:red;'>*</span></td><td style='width:250px;'>
+		<select style='width:275px;height:150px' name='LEADCF2' multiple>
 			<option value='Design'>Design</option>
 			<option value='Technology'>Technology</option>
 			<option value='Product&#x20;Management'>Product Management</option>
@@ -66,13 +75,13 @@ permalink: "/apply/"
 			<option value='Operations&#x20;&#x28;Accounting,&#x20;HR,&#x20;Legal&#x29;'>Operations &#x28;Accounting, HR, Legal&#x29;</option>
 		</select></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Elevator Pitch </td><td> <textarea name='LEADCF3' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>Name of Your Venture</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Company</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>Elevator Pitch</td><td> <textarea name='LEADCF3' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>What membership type are you looking for&#x3f;</td><td style='width:250px;'>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>What membership type are you looking for&#x3f;</td><td style='width:250px;'>
 		<select style='width:250px;' name='LEADCF5'>
 			<option value='-None-'>-None-</option>
 			<option value='Friendly&#x20;Jaagarnaut'>Friendly Jaagarnaut</option>
@@ -80,11 +89,12 @@ permalink: "/apply/"
 			<option value='Steady&#x20;Jaagarnaut'>Steady Jaagarnaut</option>
 		</select></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>No. of coworking memberships needed</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='9' name='No of Employees' /></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;width:200px;'>No. of coworking memberships needed</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='9' name='No of Employees' /></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
-		<input style='font-size:14px;color:#131307' type='submit' value='Submit' />
-		<input type='reset' style='font-size:14px;color:#131307' value='Reset' />
+
+	<input type="submit" value="Submit" class="button radius alert">		
+
 	    </td>
 	</tr>
    </table>
@@ -131,5 +141,5 @@ permalink: "/apply/"
 		trackVisitor();
 	}
 </script><script type='text/javascript' id='VisitorTracking'>var $zoho= $zoho || {salesiq:{values:{},ready:function(){$zoho.salesiq.floatbutton.visible('hide');}}};var d=document;s=d.createElement('script');s.type='text/javascript';s.defer=true;s.src='https://salesiq.zoho.com/null/float.ls?embedname=jaagastartup###null';t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);function trackVisitor(){try{if($zoho){var LDTuvidObj = document.forms['WebToLeads2110132000000115188']['LDTuvid'];if(LDTuvidObj){LDTuvidObj.value = $zoho.salesiq.visitor.uniqueid();}var firstnameObj = document.forms['WebToLeads2110132000000115188']['First Name'];if(firstnameObj){name = firstnameObj.value +' '+name;}$zoho.salesiq.visitor.name(name);var emailObj = document.forms['WebToLeads2110132000000115188']['Email'];if(emailObj){email = emailObj.value;$zoho.salesiq.visitor.email(email);}}} catch(e){}}</script>
-	</form>
+	<!-- </form> -->
 </div>
