@@ -23,20 +23,17 @@ _NB - Please do not purchase membership using links below until we have confirme
 
 <table>
     <tr>
-        <td><b><a href="https://www.instamojo.com/jaagastartup/gold-membership-4246b/" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="Steady Jaagarnaut"></a>
-<script src="https://d2xwmjc4uy2hr5.cloudfront.net/im-embed/im-embed.min.js"></script></b></td>
+        <td><b>Steady Jaagarnaut</b></td>
         <td>1 month membership: dedicated seating</td>
         <td>₹5000</td>
     </tr>   
     <tr>
-        <td><b><a href="https://www.instamojo.com/jaagastartup/silver-membership-55774/" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="Flexible Jaagarnaut"></a>
-<script src="https://d2xwmjc4uy2hr5.cloudfront.net/im-embed/im-embed.min.js"></script></b></td>
+        <td><b>Flexible Jaagarnaut</b></td>
         <td>1 month membership: flexible seating</td>
         <td>₹4000</td>
     </tr>
     <tr>
-        <td><b><a href="https://www.instamojo.com/jaagastartup/friendly-jaagarnaut-83672/" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="Friendly Jaagarnaut"></a>
-<script src="https://d2xwmjc4uy2hr5.cloudfront.net/im-embed/im-embed.min.js"></script></b></td>
+        <td><b>Friendly Jaagarnaut</b></td>
         <td>1 month membership: flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays</td>
         <td>₹2000</td>
     </tr>

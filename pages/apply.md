@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Apply"
+title: ""
 meta_title: "Apply - Jaaga Startup"
 subheadline: ""
 teaser: ""
@@ -42,9 +42,10 @@ permalink: "/apply/"
 			border-width:0px;
 			}
 	</style>
-	<table style='width:600px;background-color:#ffffff;color:black'>
 
-	<tr><td colspan='2' style='text-align:left;color:black;font-family:Tahoma;font-size:16px;'><strong>Apply to Jaaga Startup Community</strong></td></tr>
+	<h1>Join the Jaaga Startup Community</h1>
+
+	<table style='width:600px;background-color:#ffffff;color:black;border:0'>
 
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>First Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='40' name='First Name' /></td></tr>
 
@@ -55,7 +56,7 @@ permalink: "/apply/"
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Mobile</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Mobile' /></td></tr>
 
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>What skills are you willing and able to share&#x3f;<span style='color:red;'>*</span></td><td style='width:250px;'>
-		<select style='width:250px;height:175px' name='LEADCF1' multiple>
+		<select style='width:275px;height:150px' name='LEADCF1' multiple>
 			<option value='Design'>Design</option>
 			<option value='Technology'>Technology</option>
 			<option value='Product&#x20;Management'>Product Management</option>
@@ -65,7 +66,7 @@ permalink: "/apply/"
 		</select></td></tr>
 
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>What skills are you looking for from our community<span style='color:red;'>*</span></td><td style='width:250px;'>
-		<select style='width:250px;height:175px' name='LEADCF2' multiple>
+		<select style='width:275px;height:150px' name='LEADCF2' multiple>
 			<option value='Design'>Design</option>
 			<option value='Technology'>Technology</option>
 			<option value='Product&#x20;Management'>Product Management</option>
@@ -74,9 +75,9 @@ permalink: "/apply/"
 			<option value='Operations&#x20;&#x28;Accounting,&#x20;HR,&#x20;Legal&#x29;'>Operations &#x28;Accounting, HR, Legal&#x29;</option>
 		</select></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Elevator Pitch </td><td> <textarea name='LEADCF3' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Name of Your Venture</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Company</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Elevator Pitch</td><td> <textarea name='LEADCF3' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
 
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
 
@@ -87,7 +88,7 @@ permalink: "/apply/"
 			<option value='Flexible&#x20;Jaagarnaut'>Flexible Jaagarnaut</option>
 			<option value='Steady&#x20;Jaagarnaut'>Steady Jaagarnaut</option>
 		</select></td></tr>
-	
+
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>No. of coworking memberships needed</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='9' name='No of Employees' /></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
