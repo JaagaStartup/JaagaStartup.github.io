@@ -74,6 +74,12 @@ permalink: "/apply/"
 			<option value='Operations&#x20;&#x28;Accounting,&#x20;HR,&#x20;Legal&#x29;'>Operations &#x28;Accounting, HR, Legal&#x29;</option>
 		</select></td></tr>
 
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Elevator Pitch </td><td> <textarea name='LEADCF3' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Company</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
+
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>What membership type are you looking for&#x3f;</td><td style='width:250px;'>
 		<select style='width:250px;' name='LEADCF5'>
 			<option value='-None-'>-None-</option>
@@ -81,13 +87,7 @@ permalink: "/apply/"
 			<option value='Flexible&#x20;Jaagarnaut'>Flexible Jaagarnaut</option>
 			<option value='Steady&#x20;Jaagarnaut'>Steady Jaagarnaut</option>
 		</select></td></tr>
-
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Elevator Pitch </td><td> <textarea name='LEADCF3' maxlength='2000' style='width:250px;'>&nbsp;</textarea></td></tr>
-
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Company</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
-
-	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
-
+	
 	<tr><td  style='nowrap:nowrap;text-align:left;font-size:14px;font-family:Tahoma;width:200px;'>No. of coworking memberships needed</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='9' name='No of Employees' /></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
