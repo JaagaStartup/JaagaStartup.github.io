@@ -12,10 +12,7 @@ permalink: "/cowork/"
 We are a curated entrepreneurial community who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.
 
 <div class="small-12 text-center columns">
-
-<a class="button large radius alert" href="https://jaagastartup.typeform.com/to/x78SQJ" data-mode="1" target="_blank">Join our Community</a>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
-
+<a class="button large radius alert" href="/apply/">Join our community</a>
 </div>
 
 ## Pricing
