@@ -6,27 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/events/"
 ---
-<style>
-/* Responsive iFrame */
 
-.responsive-iframe-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 0;
-    overflow: hidden;
-}
-
-.responsive-iframe-container iframe,   
-.vresponsive-iframe-container object,  
-.vresponsive-iframe-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
 
 We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by clicking the button below!
 
@@ -64,11 +44,6 @@ We have a choice of three spaces with different capacities and purposes as shown
     </tr>
 </table>
 
-## Upcoming Events
-<!-- Responsive iFrame -->
-<div class="responsive-iframe-container">
-    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=jaaga.in_m5ramuunb38760a2acnlbsoctc%40group.calendar.google.com&amp;color=%23691426&amp;ctz=Asia%2FCalcutta" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</div>
 
 ## Right to Use
 
