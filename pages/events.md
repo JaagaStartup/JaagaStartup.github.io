@@ -12,7 +12,7 @@ We love hosting interesting, creative organisations and events. So if you need a
 We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem.
 
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="https://app.timebridge.com/#/meet/JaagaStartup">Host your event</a>
+<a class="button large radius alert" href="https://app.timebridge.com/#/meet/JaagaStartup" target='_blank'>Host your event</a>
 </div>
 
 
