@@ -7,36 +7,6 @@ teaser: ""
 permalink: "/events/"
 ---
 
-<style>
- @media (max-width: 550px) {
-     .big-container {
-         display: none;
-     }
- }
- @media (min-width: 550px) {
-     .small-container {
-         display: none;
-     }
- }
- /* Responsive iFrame */
- .responsive-iframe-container {
-     position: relative;
-     padding-bottom: 56.25%;
-     padding-top: 30px;
-     height: 0;
-     overflow: hidden;
- }
- .responsive-iframe-container iframe,   
- .vresponsive-iframe-container object,  
- .vresponsive-iframe-container embed {
-     position: absolute;
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 100%;
- }
- </style>
-
 We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by requesting to host your event at Jaaga Startup. 
 
 We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem.
@@ -45,13 +15,9 @@ We offer **free space** to meetups and other free events targeting the entrepren
 <a class="button large radius alert" href="https://app.timebridge.com/#/meet/JaagaStartup">Host your event</a>
 </div>
 
-<div class="responsive-iframe-container big-container">
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=en.indian%23holiday%40group.v.calendar.google.com&amp;color=%230F4B38&amp;ctz=Asia%2FCalcutta" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-</div>
 
-<div class="responsive-iframe-container small-container">
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=en.indian%23holiday%40group.v.calendar.google.com&amp;color=%230F4B38&amp;ctz=Asia%2FCalcutta" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-</div>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=en.indian%23holiday%40group.v.calendar.google.com&amp;color=%230F4B38&amp;ctz=Asia%2FCalcutta" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ## Pricing
 
