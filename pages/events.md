@@ -57,6 +57,7 @@ We have a choice of three spaces with different capacities and purposes as shown
 ## Terms
 
 - We will provide chairs, tables and basic AV equipment as required. Day of event operations and additional supplies will be your responsibility.
+- It's your responsibility to promote the event and get people there. If you tag us in social links we will reshare. 
 - You need to make a full advance payment to block a space.
 - Damage to Jaaga Startup equipment, building or property will be charged to you.
 - When you leave you must clear the space provided and the premises such that it is as good (if not better) than how found it.
