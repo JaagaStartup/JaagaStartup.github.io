@@ -8,13 +8,17 @@ permalink: "/events/"
 ---
 
 
-We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by clicking the button below!
+We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by requesting to host your event at Jaaga Startup. 
 
 We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem.
 
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="http://jaagastartup.in/event-form/">Host your event</a>
+<a class="button large radius alert" href="https://app.timebridge.com/#/meet/JaagaStartup">Host your event</a>
 </div>
+
+
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=en.indian%23holiday%40group.v.calendar.google.com&amp;color=%230F4B38&amp;ctz=Asia%2FCalcutta" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ## Pricing
 
@@ -23,24 +27,24 @@ We have a choice of three spaces with different capacities and purposes as shown
 <table>
     <tr>
         <td><b>Main Hall</b></td>
-        <td>Workshops, launches</td>
+        <td>Meetups, workshops</td>
         <td>80 people</td>
         <td>Weekends and holidays</td>
-        <td>₹10000</td>
+        <td>₹1500/hour</td>
     </tr>
     <tr>
         <td><b>Terrace</b></td>
-        <td>Food and art</td>
+        <td>Celebrations</td>
         <td>40 people</td>
         <td>Weekends and holidays</td>
-        <td>₹5000</td>
+        <td>₹1000/hour</td>
     </tr>
     <tr>
         <td><b>Lounge</b></td>
-        <td>Workshops, meetups</td>
+        <td>Meetups, workshops</td>
         <td>30 people</td>
         <td>Weekday evenings, weekends and holidays</td>
-        <td>₹5000</td>
+        <td>₹1000/hour</td>
     </tr>
 </table>
 
