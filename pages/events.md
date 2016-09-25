@@ -21,7 +21,7 @@ We offer **free space** to meetups and other free events targeting the entrepren
 
 ## Pricing
 
-We have a choice of three spaces with different capacities and purposes as shown in the table below. All prices are indicative daily rates.
+We have a choice of three spaces with different capacities and purposes as shown in the table below. 
 
 <table>
     <tr>
