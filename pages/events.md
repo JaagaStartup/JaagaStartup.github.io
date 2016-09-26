@@ -7,9 +7,9 @@ teaser: ""
 permalink: "/events/"
 ---
 
-We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by requesting to host your event at Jaaga Startup. 
+We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by requesting to host your event at Jaaga Startup. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem.
 
-We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem.
+**Please take a look at our calendar to ensure there are no clashes before submitting your event.**
 
 <div class="small-12 text-center columns">
 <a class="button large radius alert" href="https://podio.com/webforms/14807215/992949" target='_blank'>Host your event</a>
@@ -56,6 +56,9 @@ We have a choice of three spaces with different capacities and purposes as shown
 
 ## Terms
 
+- Community events and those relevant to the entrepreneurial ecosystem are usually supported at no cost.
+- Sunday events are almost always charged.
+- Marketing and/or corporate events are also usually charged.
 - We will provide chairs, tables and basic AV equipment as required. Day of event operations and additional supplies will be your responsibility.
 - It's your responsibility to promote the event and get people there. If you tag us in social links we will reshare. 
 - You need to make a full advance payment to block a space.
