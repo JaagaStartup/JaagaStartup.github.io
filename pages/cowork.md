@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Cowork at Jaaga Startup"
-meta_title: "Coworking - Jaaga Startup"
+title: "Collaborative Coworking Community in Central Bangalore"
+meta_title: "Collaborative Coworking Community in Central Bangalore"
 subheadline: ""
 teaser: ""
 permalink: "/cowork/"
