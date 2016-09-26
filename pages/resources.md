@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Resources for Startups from Jaaga Startup"
+title: "Resources for Startups"
 meta_title: "Startup valuation, product management canvas, negotiation tools"
 subheadline: ""
 teaser: ""
