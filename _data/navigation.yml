@@ -25,10 +25,10 @@
   url: "/contact/"
   side: left
 
+- title: "Startup Resources"
+  url: "/resources/"
+  side: left
 
-- title: "Startup Valuator"
-  url: "https://goo.gl/forms/jZjNfBiDNTXHdFI12"
-  side: right
 
 - title: "Incubate"
   url: "http://jaagasustain.in/incubate/"
