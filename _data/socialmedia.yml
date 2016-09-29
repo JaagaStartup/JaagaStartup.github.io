@@ -13,10 +13,10 @@
   class: icon-googleplus
   title: "Follow us on Google+"
 
-- name: Instagram
-  url: https://www.instagram.com/JaagaStartup
-  class: icon-instagram
-  title: "Follow us on Instagram"
+#- name: Instagram
+#  url: https://www.instagram.com/JaagaStartup
+#  class: icon-instagram
+#  title: "Follow us on Instagram"
 
 - name: YouTube
   url: https://www.youtube.com/c/JaagaStartupInBangalore
