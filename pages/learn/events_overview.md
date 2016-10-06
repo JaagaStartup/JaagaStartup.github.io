@@ -5,6 +5,7 @@ meta_title: "events offers"
 subheadline: ""
 teaser: ""
 permalink: "/events_overview/"
+published: false
 ---
 
 <div class="row">

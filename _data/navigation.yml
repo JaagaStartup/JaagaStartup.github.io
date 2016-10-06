@@ -13,9 +13,6 @@
 - title: "Experts"
   url: "/experts/"
   side: left
-  dropdown:
-  - title: "Workshops"
-    url: "/workshops/"
 
 - title: "About"
   url: "/about/"

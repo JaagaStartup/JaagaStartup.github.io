@@ -4,7 +4,7 @@ title: "Overview of our Experts"
 meta_title: "Jaaga Experts"
 subheadline: ""
 teaser: ""
-permalink: "/experts_overview/"
+permalink: "/experts/"
 ---
 
 {% for workshop_expert in site.data.workshop_expert %}
