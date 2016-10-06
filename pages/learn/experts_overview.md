@@ -10,7 +10,7 @@ permalink: "/experts/"
 {% for expert in site.data.experts %}
 <div class="row">
   <div class="large-6 columns">
-  	<a href="http://jaagastartup.in/{{ expert.profile_url }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ expert.image }}" width="200"  alt="{{ expert.name }}"></a>
+  	<a href="http://jaagastartup.in/experts/{{ expert.profile_url }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ expert.image }}" width="200"  alt="{{ expert.name }}"></a>
   </div>
   <div class="large-6 columns" align="center">
     	<h2><a href="http://jaagastartup.in/{{ expert.profile_url }}/">{{ expert.name }}</a></h2>
