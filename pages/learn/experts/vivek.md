@@ -19,7 +19,7 @@ expert_quote: "Data beats opinions"
 domain_explanation: "Product Management systematically converts ideas into businesses by combining technology, business and design in the right measure. From product discovery for startups to maximising product value after product discovery, a product walks with the foot of a Product Manager. Any enterprise - regardless of the size - needs a superior Product Management practice to create products that are valuable, feasible, usable and indeed delightful."
 expert_biography: "Vivek is a customer focused Product Manager with more than a decade of experience churning technology products for consumers and enterprises on both desktop and mobile. Vivek has proven product development experience at visionary large enterprises like Motorola, Nokia and Intuit as well as at nimble small companies like iPass and Nestoria. 
 <br>
-Where can Vivek help you?
+<h5>Where can Vivek help you?</h5>
 <br>
 <ul>
 <li> Product Discovery - applying tenets of Lean methodology to validate ideas and iterate on versions of Minimum Viable Product (MVP)</li>

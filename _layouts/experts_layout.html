@@ -62,7 +62,6 @@ format: post
 
 			</div>
 
-			<br>
 
 			<!-- Display of "Why the experts domain is important" -->
 
@@ -70,33 +69,30 @@ format: post
 				<h4><strong> Why {{expert.skill}}?</strong></h4>
 			</div>
 
-			<br>
+			<!-- <br> -->
 
 			<div>
 				{{ expert.why_skill }}
 			</div>
 
-			<br>		
-			<!-- Display of a potential workshop picutre with the expert -->
-			<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{expert.workshop_image}}" alt="Workshop Photo" align="center" orientation= "center"/></p>	
-
-			<br>
 			<!-- Display of the "Why experts is an expert in his domain" -->
 
 			<div class="container" align= "left">
-				<h4><strong>Why {{expert.first_name}}?</strong></h4>
+				<h4><strong>Why {{expert.name}}?</strong></h4>
 			</div>	
 
-			<br>
 			<div>
 				{{ expert.bio }}
 			</div>
 
-			<br>
 			<hr />
 			<!-- Display of the call-to-action button depending on the experts offers -->	
 
-
+			<!-- Display of a potential workshop picutre with the expert -->
+			{% if expert.workshop_image %}
+				<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{expert.workshop_image}}" alt="Workshop Photo" align="center" orientation= "center"/></p>	
+			{% endif %}
+			
 			<div class="container" align= "left">
 				<h5><strong>Are you interested in working with {{expert.name}}?</strong></h5>
 			</div>
