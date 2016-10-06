@@ -19,8 +19,9 @@ format: post
 					<a href="{{ expert.linkedin }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ expert.image }}" alt="expert.name" width="200" height="200" /></a>
 				</div>	
 				<div class="large-6 columns" align= "center">
-					<blockquote> {{ expert.quote }} </blockquote>
-
+					{% if expert.quote %}
+						<blockquote> {{ expert.quote }} </blockquote>
+					{% endif %}
 					<!-- Display of social media links if available -->	
 					<ul class="inline-list social-icons">
 					{% if expert.linkedin %}
@@ -92,7 +93,7 @@ format: post
 			{% if expert.workshop_image %}
 				<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{expert.workshop_image}}" alt="Workshop Photo" align="center" orientation= "center"/></p>	
 			{% endif %}
-			
+
 			<div class="container" align= "left">
 				<h5><strong>Are you interested in working with {{expert.name}}?</strong></h5>
 			</div>
