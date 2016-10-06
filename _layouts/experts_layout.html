@@ -7,11 +7,9 @@ format: post
 
 		<div class="container" align= "left">
 			{% for expert in site.data.experts %}
-				{% if expert.name == expert.name %}
-					<h2>{{ expert.name }}</h2>	
-				{% endif %}
-			{% endfor %}
-			
+				{% if page.expert_name == expert.name %}
+
+			<h2>{{ expert.name }}</h2>			
 			<p class="subheadline"><em>{{ expert.skill }}</em><p>
 			</div>
 			<!-- Display of experts picture and quote -->
@@ -119,6 +117,9 @@ format: post
 		</div> -->
 
 		<!-- ToDo: Display of a potential workshop video of the expert -->
+			{% endif %}
+			{% endfor %}
+			
 	</div>
 </div><!-- /.row -->
 
