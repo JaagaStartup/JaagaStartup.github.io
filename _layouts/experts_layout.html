@@ -19,20 +19,24 @@ format: post
 					<blockquote> {{ page.expert_quote }} </blockquote>
 
 					<!-- Display of social media links if available -->	
+					{% if page.expert_facebook %}
 					<a href="{{ page.expert_linkedin }}" target="_blank">
 						<i class="fa fa-linkedin" aria-hidden="true"></i>
-					</a>	
-					{% if page.expert_facebook %}
+					</a>
+					{% endif %}
 
+					{% if page.expert_facebook %}
 					<a href="{{ page.expert_facebook }}" target="_blank">
 						<i class="fa fa-facebook" aria-hidden="true"></i>
 					</a>	
 					{% endif %}
+
 					{% if page.expert_twitter %}
 					<a href="{{ page.expert_twitter }}" target="_blank">
 						<i class="fa fa-twitter" aria-hidden="true"></i>
 					</a>	
 					{% endif %}
+
 					{% if page.expert_webside %}
 					<a href="{{ page.expert_webside }}" target="_blank">
 						<i class="fa fa-globe" aria-hidden="true"></i>
