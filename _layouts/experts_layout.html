@@ -3,91 +3,87 @@ layout: default
 format: post
 ---
 <div class="row t30">
+	<div class="large-6 columns">
 
+		<div class="container" align= "left">
+			<h2>{{ page.expert_name }}</h2>
+			<p class="subheadline"><em>{{ page.expert_domain }}</em><p>
+			</div>
+			<!-- Display of experts picture and quote -->
 
-	<div class="container" align= "left">
-		<h2>{{ page.expert_name }}</h2>
-		<p class="subheadline"><em>{{ page.expert_domain }}</em><p>
-		</div>
-		<!-- Display of experts picture and quote -->
+			<div class="row">	
+				<div class="large-6 columns">
+					<a href="{{ page.expert_linkedin }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ page.expert_image }}" alt="expert_image" width="200" height="200" /></a>
+				</div>	
+				<div class="large-6 columns" align= "center">
+					<blockquote> {{ page.expert_quote }} </blockquote>
 
-		<div class="row">	
-			<div class="large-6 columns">
-				<a href="{{ page.expert_linkedin }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ page.expert_image }}" alt="expert_image" width="200" height="200" /></a>
-			</div>	
-			<div class="large-6 columns" align= "center">
-				<blockquote> {{ page.expert_quote }} </blockquote>
+					<!-- Display of social media links if available -->	
+					<a href="{{ page.expert_linkedin }}" target="_blank">
+						<i class="fa fa-linkedin" aria-hidden="true"></i>
+					</a>	
+					{% if page.expert_facebook %}
 
-				<!-- Display of social media links if available -->	
-				<a href="{{ page.expert_linkedin }}" target="_blank">
-					<img src="http://lawyermeltdown.com/wp-content/uploads/2014/03/Official-LinkedIn-InBug-2CRev.png" border="0" width="50" alt="Linkedin Profile">
-				</a>	
-				{% if page.expert_facebook %}
-				<a href="{{ page.expert_facebook }}" target="_blank">
-					<img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/FB-fLogo-Blue-broadcast-2.png" border="0" width="48" alt="Facebook Profile">
-				</a>	
-				{% endif %}
-				{% if page.expert_twitter %}
-				<a href="{{ page.expert_twitter }}" target="_blank">
-					<img src="http://www.thewrap.com/wp-content/uploads/2015/07/twitter-logo-618-340x300.jpg" border="0" width="50" alt="Facebook Profile">
-				</a>	
-				{% endif %}
-				{% if page.expert_instagram %}
-				<a href="{{ page.expert_instagram }}" target="_blank">
-					<img src="https://5a5a57ff32a328601212-ee0df397c56b146e91fe14be42fa361d.ssl.cf1.rackcdn.com/icon/instagram_logos_app_icon/YyepHGHDvkl1wFkUHw8Y/Instagram-v051916_200.png" border="0" width="50" alt="Facebook Profile">
-				</a>	
-				{% endif %}
-				{% if page.expert_webside %}
-				<a href="{{ page.expert_webside }}" target="_blank">
-					<img src="http://www.freeiconspng.com/uploads/home-icon-4.png	" border="0" width="50" alt="Facebook Profile">
-				</a>	
-				{% endif %}	
+					<a href="{{ page.expert_facebook }}" target="_blank">
+						<i class="fa fa-facebook" aria-hidden="true"></i>
+					</a>	
+					{% endif %}
+					{% if page.expert_twitter %}
+					<a href="{{ page.expert_twitter }}" target="_blank">
+						<i class="fa fa-twitter" aria-hidden="true"></i>
+					</a>	
+					{% endif %}
+					{% if page.expert_webside %}
+					<a href="{{ page.expert_webside }}" target="_blank">
+						<i class="fa fa-globe" aria-hidden="true"></i>
+					</a>	
+					{% endif %}	
+
+				</div>
 
 			</div>
 
-		</div>
+			<br>
 
-		<br>
-		
-		<!-- Display of "Why the experts domain is important" -->
+			<!-- Display of "Why the experts domain is important" -->
 
-		<div class="container" align= "left">
-			<h4><strong> Why {{page.expert_domain}}?</strong></h4>
-		</div>
+			<div class="container" align= "left">
+				<h4><strong> Why {{page.expert_domain}}?</strong></h4>
+			</div>
 
-		<br>
+			<br>
 
-		<div>
-			{{ page.domain_explanation }}
-		</div>
+			<div>
+				{{ page.domain_explanation }}
+			</div>
 
-		<br>		
-		<!-- Display of a potential workshop picutre with the expert -->
-		<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{page.expert_image_workshop}}" alt="Workshop_Picture" align="center" orientation= "center"/></p>	
+			<br>		
+			<!-- Display of a potential workshop picutre with the expert -->
+			<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{page.expert_image_workshop}}" alt="Workshop_Picture" align="center" orientation= "center"/></p>	
 
-		<br>
-		<!-- Display of the "Why experts is an expert in his domain" -->
+			<br>
+			<!-- Display of the "Why experts is an expert in his domain" -->
 
-		<div class="container" align= "left">
-			<h4><strong>Why {{page.expert_first_name}}?</strong></h4>
-		</div>	
+			<div class="container" align= "left">
+				<h4><strong>Why {{page.expert_first_name}}?</strong></h4>
+			</div>	
 
-		<br>
-		<div>
-			{{ page.expert_biography }}
-		</div>
-		
-		<br>
-		<hr />
-		<!-- Display of the call-to-action button depending on the experts offers -->	
+			<br>
+			<div>
+				{{ page.expert_biography }}
+			</div>
 
-		
-		<div class="container" align= "left">
-			<h5><strong>Are you interested in working with {{page.expert_first_name}}?</strong></h5>
-		</div>
-		
-		<h3> Write to us at <a href="mailto:hello@jaagastartup.in?Subject=Hello%20Jaaga%20Startup%21"><strong>hello@jaagastartup.in</strong></a>!</h3>
-		<br>
+			<br>
+			<hr />
+			<!-- Display of the call-to-action button depending on the experts offers -->	
+
+
+			<div class="container" align= "left">
+				<h5><strong>Are you interested in working with {{page.expert_first_name}}?</strong></h5>
+			</div>
+
+			<h3> Write to us at <a href="mailto:hello@jaagastartup.in?Subject=Hello%20Jaaga%20Startup%21"><strong>hello@jaagastartup.in</strong></a>!</h3>
+			<br>
 
 		<!-- <div class="row">
 			<div class="small-2 large-4 columns">
@@ -102,10 +98,9 @@ format: post
 		</div> -->
 
 		<!-- ToDo: Display of a potential workshop video of the expert -->
+	</div>
+</div><!-- /.row -->
 
-	</div><!-- /.row -->
-</article>
-</div><!-- /.medium-8.columns -->
 
 
 {% if page.sidebar == "left" %}
