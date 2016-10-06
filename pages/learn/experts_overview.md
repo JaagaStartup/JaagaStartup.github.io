@@ -13,7 +13,7 @@ permalink: "/experts/"
   	<a href="http://jaagastartup.in/{{ expert.profile_url }}/"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ expert.image }}" width="200"  alt="{{ expert.name }}"></a>
   </div>
   <div class="large-6 columns" align="center">
-    	<h2><a href="http://jaagastartup.in/{{ expert.profil_url }}/">{{ expert.name }}</a></h2>
+    	<h2><a href="http://jaagastartup.in/{{ expert.profile_url }}/">{{ expert.name }}</a></h2>
       <br>
       <subheadline><em> {{ expert.skill }}</em></subheadline>
       <br>

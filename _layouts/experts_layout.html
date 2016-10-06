@@ -7,53 +7,53 @@ format: post
 
 		<div class="container" align= "left">
 			{% for expert in site.data.experts %}
-				{% if page.expert_name == expert.name %}
+				{% if expert.name == expert.name %}
 					<h2>{{ expert.name }}</h2>	
 				{% endif %}
 			{% endfor %}
 			
-			<p class="subheadline"><em>{{ page.expert_domain }}</em><p>
+			<p class="subheadline"><em>{{ expert.skill }}</em><p>
 			</div>
 			<!-- Display of experts picture and quote -->
 
 			<div class="row">	
 				<div class="large-6 columns">
-					<a href="{{ page.expert_linkedin }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ page.expert_image }}" alt="expert_image" width="200" height="200" /></a>
+					<a href="{{ expert.linkedin }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ expert.image }}" alt="expert.name" width="200" height="200" /></a>
 				</div>	
 				<div class="large-6 columns" align= "center">
-					<blockquote> {{ page.expert_quote }} </blockquote>
+					<blockquote> {{ expert.quote }} </blockquote>
 
 					<!-- Display of social media links if available -->	
 					<ul class="inline-list social-icons">
-					{% if page.expert_linkedin %}
+					{% if expert.linkedin %}
               			<li>
-	              			<a href="{{ page.expert_linkedin }}" target="_blank">
+	              			<a href="{{ expert.linkedin }}" target="_blank">
 								<i class="fa fa-linkedin" aria-hidden="true"></i>
 							</a>
               			</li>
 					{% endif %}
 
-					{% if page.expert_facebook %}            
+					{% if expert.facebook %}            
               			<li>
-	              			<a href="{{ page.expert_facebook }}" target="_blank">
+	              			<a href="{{ expert.facebook }}" target="_blank">
 								<i class="fa fa-facebook" aria-hidden="true"></i>
 							</a>
               			</li>
 						
 					{% endif %}
 
-					{% if page.expert_twitter %}
+					{% if expert.twitter %}
 					<li>
-						<a href="{{ page.expert_twitter }}" target="_blank">
+						<a href="{{ expert.twitter }}" target="_blank">
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</a>	
 					</li>
 
 					{% endif %}
 
-					{% if page.expert_webside %}
+					{% if expert.website %}
 					<li>
-						<a href="{{ page.expert_webside }}" target="_blank">
+						<a href="{{ expert.website }}" target="_blank">
 							<i class="fa fa-globe" aria-hidden="true"></i>
 						</a>
 					</li>	
@@ -69,29 +69,29 @@ format: post
 			<!-- Display of "Why the experts domain is important" -->
 
 			<div class="container" align= "left">
-				<h4><strong> Why {{page.expert_domain}}?</strong></h4>
+				<h4><strong> Why {{expert.skill}}?</strong></h4>
 			</div>
 
 			<br>
 
 			<div>
-				{{ page.domain_explanation }}
+				{{ expert.why_skill }}
 			</div>
 
 			<br>		
 			<!-- Display of a potential workshop picutre with the expert -->
-			<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{page.expert_image_workshop}}" alt="Workshop_Picture" align="center" orientation= "center"/></p>	
+			<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{expert.image_workshop}}" alt="Workshop_Picture" align="center" orientation= "center"/></p>	
 
 			<br>
 			<!-- Display of the "Why experts is an expert in his domain" -->
 
 			<div class="container" align= "left">
-				<h4><strong>Why {{page.expert_first_name}}?</strong></h4>
+				<h4><strong>Why {{expert.first_name}}?</strong></h4>
 			</div>	
 
 			<br>
 			<div>
-				{{ page.expert_biography }}
+				{{ expert.bio }}
 			</div>
 
 			<br>
@@ -100,7 +100,7 @@ format: post
 
 
 			<div class="container" align= "left">
-				<h5><strong>Are you interested in working with {{page.expert_first_name}}?</strong></h5>
+				<h5><strong>Are you interested in working with {{expert.name}}?</strong></h5>
 			</div>
 
 			<h3> Write to us at <a href="mailto:hello@jaagastartup.in?Subject=Hello%20Jaaga%20Startup%21"><strong>hello@jaagastartup.in</strong></a>!</h3>
