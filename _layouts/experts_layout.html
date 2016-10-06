@@ -6,7 +6,12 @@ format: post
 	<div class="medium-8 columns medium-offset-2 end">
 
 		<div class="container" align= "left">
-			<h2>{{ page.expert_name }}</h2>
+			{% for expert in site.data.experts %}
+				{% if page.expert_name == expert.name %}
+					<h2>{{ expert.name }}</h2>	
+				{% endif %}
+			{% endfor %}
+			
 			<p class="subheadline"><em>{{ page.expert_domain }}</em><p>
 			</div>
 			<!-- Display of experts picture and quote -->
