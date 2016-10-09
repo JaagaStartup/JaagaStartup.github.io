@@ -22,15 +22,6 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family. Our mission is to 
 </div>
 <br>
 
-<div class="row">
-  <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/farish.png" alt="Farish">
-  </div>
-  <div class="large-6 columns">
-  	<b><a href="https://www.linkedin.com/in/farishcv">Farish</a></b> likes building communities and has been for a long time in various roles. He drives engagement and programs for our coworking community. Farish is from Kozhikode, Kerala.
-  </div>
-</div>
-<br>
 
 <div class="row">
   <div class="large-6 columns">
