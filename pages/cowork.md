@@ -11,7 +11,7 @@ permalink: "/cowork/"
 
 We are a curated entrepreneurial community who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.
 
-{% include alert info='Try us for day. Free. Wednesdays (skill sharing) and Fridays (social chai) are highly recommended!' %}
+{% include alert info='Try us for a day. Free. Wednesdays (skill sharing) and Fridays (social chai) are highly recommended!' %}
 
 <div class="small-12 text-center columns">
 <a class="button large radius alert" href="/apply/">Join our community</a>
