@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ""
-meta_title: "Apply - Jaaga Startup"
+meta_title: "Apply for Coworking at Jaaga Startup"
 subheadline: ""
 teaser: ""
-permalink: "/apply/"
+permalink: "/cowork/apply/"
 ---
 
 <!-- BEGIN Podio web form -->

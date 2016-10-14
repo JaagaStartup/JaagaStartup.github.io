@@ -14,7 +14,7 @@ We are a curated entrepreneurial community who share skills, networks and knowle
 {% include alert info='Try us for a day. Free. Wednesdays (skill sharing) and Fridays (social chai) are highly recommended!' %}
 
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="/apply/">Join our community</a>
+<a class="button large radius alert" href="/cowork/apply/">Join our community</a>
 <!-- <a class="button large radius alert" href="https://podio.com/webforms/15849774/1063933">Join our community</a> -->
 </div>
 

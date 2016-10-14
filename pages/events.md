@@ -12,7 +12,7 @@ We love hosting interesting, creative organisations and events. So if you need a
 **Please take a look at our calendar to ensure there are no clashes before submitting your event.**
 
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="https://podio.com/webforms/14807215/992949" target='_blank'>Host your event</a>
+<a class="button large radius alert" href="/events/apply/">Host your event</a>
 </div>
 
 
