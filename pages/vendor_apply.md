@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-meta_title: "Become a vendor for our startups"
+meta_title: "Become a vendor for our community"
 subheadline: ""
 teaser: ""
 permalink: "/vendors/apply/"
