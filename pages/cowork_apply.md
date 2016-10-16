@@ -17,4 +17,4 @@ permalink: "/cowork/apply/"
 </noscript> -->
 <!-- END Podio web form -->
 
-<iframe frameborder="0" style="position:absolute;height:100%;width:99%;border:none;" src='https://forms.zohopublic.com/tejpochiraju/form/ApplytoJaagaStartup/formperma/1a5E80Hf0E4d6C604HM4B6dm2'></iframe>
+<iframe src='https://forms.zohopublic.com/tejpochiraju/form/ApplytoJaagaStartup/formperma/1a5E80Hf0E4d6C604HM4B6dm2' width="760" height="400" frameborder="0" marginheight="0" marginwidth="0"></iframe>
