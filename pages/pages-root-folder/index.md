@@ -13,12 +13,12 @@ widget1:
   title: "Cowork"
   url: '/cowork/'
   image: cowork-small.png
-  text: 'We are a curated entrepreneurial community who share skills, networks and knowledge within a well laid out coworking space in central Bangalore. Join us to collaborate and help each other build stronger ventures.'
+  text: 'We are a not-for-profit community that shares skills, knowledge and networks to help each other build better ventures. Join us and work out of a beautiful, open coworking space on Richmond Road in Central Bangalore.'
 widget2:
   title: "Host an Event"
   url: '/events/'
   image: events-small.png
-  text: 'We love hosting interesting, creative organisations and events. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem. Get in touch if you need a central location to host your audience!'
+  text: 'We regularly host events suitable for an entrepreneurial community and work with a number of creative individuals and organisations. Get in touch if you need a central location to host your audience!'
 widget3:
   title: "Incubate"
   url: 'http://jaagasustain.in/incubate'
@@ -45,28 +45,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div class="small-6 large-centered columns">
-	<h3 id="coworking-pricing" align="center">Pick a membership that suits you</h3>
-	<br>
-
-<table>
-    <tr>
-        <td><b>Steady Jaagarnaut</b></td>
-        <td>1 month membership: dedicated seating</td>
-        <td>₹5000</td>
-    </tr>   
-    <tr>
-        <td><b>Flexible Jaagarnaut</b></td>
-        <td>1 month membership: flexible seating</td>
-        <td>₹4000</td>
-    </tr>
-    <tr>
-        <td><b>Friendly Jaagarnaut</b></td>
-        <td>1 month membership: flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays</td>
-        <td>₹2000</td>
-    </tr>
-
-</table>
-
-</div>

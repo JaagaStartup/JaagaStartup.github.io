@@ -1,28 +1,29 @@
 ---
 layout: page
-title: "Collaborative Coworking Community in Central Bangalore"
-meta_title: "Collaborative Coworking Community in Central Bangalore"
+title: "Collaborative Coworking in Central Bangalore"
+meta_title: "Collaborative Coworking in Central Bangalore"
 subheadline: ""
 teaser: ""
 permalink: "/cowork/"
 ---
 
-> Coworking is about people, not space. It's about collaboration, not cubicles. It's about the journey, not the destination.
+> We solve problems and build better ventures through skill sharing and co-creation
 
-We are a curated entrepreneurial community who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.
+## Three things you should know
 
-{% include alert info='Try us for a day. Free. Wednesdays (skill sharing) and Fridays (social chai) are highly recommended!' %}
+- We are not-for-profit - profits go into a community fund
+- We are collaborative - skill sharing is expected and part of your 'fee'
+- We started in 2009 - making us India's oldest coworking community
+
 
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="/cowork/apply/">Join our community</a>
-<!-- <a class="button large radius alert" href="https://podio.com/webforms/15849774/1063933">Join our community</a> -->
+<a class="button large radius alert" href="/cowork/apply/">Try us for a day. Free!</a>
 </div>
 
 ## Pricing
 
-We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 15% is charged extra.
+We offer three membership levels so you can participate as best suits you, your time and your budget. All membership plans are billed per person per month. Service tax at 15% is charged extra. We do not offer discounts so please don't ask.
 
-_NB - Please do not purchase membership using links below until we have confirmed._
 
 <table>
     <tr>
@@ -54,9 +55,8 @@ _NB - Please do not purchase membership using links below until we have confirme
 
 ## Programs
 
-- Peer and expert mentoring via our [collaborative platform](http://community.jaagastartup.in)
-- Our own custom product management platform to help you make the right decisions
-- Collaboration and networking facilitated through daily lunches, weekly learning sessions, fortnightly review meetings and monthly happy hours
+- Our own custom product management framework to help you make the right decisions
+- Collaboration and networking facilitated through daily lunches and weekly learning sessions + socials
 - Access to a large pool of skilled resources to help you build your product/service better, faster
 
 ## Perks
