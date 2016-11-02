@@ -18,4 +18,4 @@ permalink: "/events/apply/"
 </noscript> -->
 <!-- END Podio web form -->
 
-<script type="text/javascript" src="https://forms.zohopublic.com/tejpochiraju/form/HostyourEventatJaagaStartup/jsperma/_m676f1626g33M3g61bM171GE" id="ZFScript"></script>
+<iframe frameborder="0" style="position:absolute;height:100%;width:99%;border:none;" src='https://forms.zohopublic.com/tejpochiraju/form/HostyourEventatJaagaStartup/formperma/_m676f1626g33M3g61bM171GE'></iframe>
