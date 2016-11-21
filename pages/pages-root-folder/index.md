@@ -13,7 +13,7 @@ widget1:
   title: "Open"
   url: '/cowork/'
   image: roomtobreathe-small.png
-  text: 'Coworking can be wonderful but we all need room for our ideas to breathe and grow. Experience the most open coworking space in Bangalore. Being not-for-profit has its benefits!'
+  text: 'Coworking can be wonderful but we need room for our ideas to breathe and grow. Experience the most open coworking space in Bangalore. Being not-for-profit has its benefits!'
 widget2:
   title: "Collaborative"
   url: '/cowork/'

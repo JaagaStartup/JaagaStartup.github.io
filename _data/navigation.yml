@@ -22,10 +22,6 @@
   url: "/contact/"
   side: left
 
-- title: "Startup Resources"
-  url: "/resources/"
-  side: left
-
 
 - title: "Incubate"
   url: "http://jaagasustain.in/incubate/"
@@ -39,10 +35,10 @@
   url: "http://gallery.jaagastartup.in"
   side: right
 
-- title: "Community"
+- title: "Slack"
   url: "http://community.jaagastartup.in"
   side: right
 
 - title: "Store"
-  url: "https://www.instamojo.com/jaagastartup/?ref=profile_bar"
+  url: "https://www.instamojo.com/jaagastartup/"
   side: right

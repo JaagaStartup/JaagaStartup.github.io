@@ -5,6 +5,7 @@ meta_title: "Startup valuation, product management canvas, negotiation tools"
 subheadline: ""
 teaser: ""
 permalink: "/resources/"
+published: False
 ---
 
 - [Research on Environmental Ventures](http://projectsphere.jaagastartup.in)
