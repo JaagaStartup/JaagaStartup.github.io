@@ -10,20 +10,20 @@ image:
   title: logo.jpg
 
 widget1:
-  title: "Cowork"
+  title: "Open"
   url: '/cowork/'
-  image: cowork-small.png
-  text: 'We are a not-for-profit community that shares skills, knowledge and networks to help each other build better ventures. Join us and work out of a beautiful, open coworking space on Richmond Road in Central Bangalore.'
+  image: roomtobreathe-small.png
+  text: 'Coworking can be wonderful but we all need room for our ideas to breathe and grow. Experience the most open coworking space in Bangalore. Being not-for-profit has its benefits!'
 widget2:
-  title: "Host an Event"
-  url: '/events/'
-  image: events-small.png
-  text: 'We regularly host events suitable for an entrepreneurial community and work with a number of creative individuals and organisations. Get in touch if you need a central location to host your audience!'
+  title: "Collaborative"
+  url: '/cowork/'
+  image: sharingskills-small.png
+  text: 'Our community learns and grows together by sharing skills every week. We curate our well-rounded community so you can learn new skills and find solutions easily, collaboratively.'
 widget3:
-  title: "Incubate"
-  url: 'http://jaagasustain.in/incubate'
-  image: sustain-small.png
-  text: "We support entrepreneurs using technology to address environmental challenges with free coworking space and access to technology platforms, mentors and partners. Apply to solve real world problems around us."
+  title: "Green"
+  url: '/cowork/'
+  image: greenallaround-small.png
+  text: "We believe we all have a responsibility to our surroundings. So we compost our food waste, use it to nourish our large terrace garden and enjoy the perks of a lovely environment for our lunch."
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /cowork/
-  text: Explore Coworking
+  url: /cowork/apply/
+  text: Join Us!
   style: alert
 permalink: /index.html
 #
