@@ -41,6 +41,12 @@ We offer three membership levels so you can participate as best suits you, your 
         <td>1 month membership: flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays</td>
         <td>₹2000</td>
     </tr>
+    <tr>
+        <td><a href="https://www.instamojo.com/jaagastartup/driveby-jaagarnaut/" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="Driveby Jaagarnaut"></a>
+<script src="https://d2xwmjc4uy2hr5.cloudfront.net/im-embed/im-embed.min.js"></script></td>
+        <td>Daily membership: flexible seating</td>
+        <td>₹250</td>
+    </tr>
 
 </table>
 
