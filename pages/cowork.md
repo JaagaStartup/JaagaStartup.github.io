@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/cowork/"
 ---
 
-It's pretty simple really. We are a friendly, collaborative bunch that works together. We are all solving problems and attempting to do that better by sharing skills and knowledge with each other. We keep prices low and spirits high so that we can bootstrap longer!
+It's pretty simple really. We are a friendly, collaborative bunch that works together. We are all solving problems and attempting to do that better by sharing skills and knowledge with each other. We keep prices low and spirits high so that we can bootstrap longer.
 
 <div class="small-12 text-center columns">
 <a class="button large radius alert" href="/cowork/apply/">Join us!</a>
