@@ -12,7 +12,7 @@ We love hosting interesting, creative organisations and events. So if you need a
 **Please take a look at our calendar to ensure there are no clashes before submitting your event.**
 
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="/events/apply/">Host your event</a>
+<a class="button large radius alert" href="mailto:hello@jaagastartup.in?Subject=Hosting%20an%20event%20at%20Jaaga%20Startup&Body=Hi%20Jaaga%20Startup%20team%21%0A%0AWe%20would%20like%20to%20host%20an%20event%20at%20Jaaga%20Startup.%20Please%20see%20details%20below%20and%20let%20us%20know%20next%20steps.%0A%0AName%20of%20event%3A%0APreferred%20date%20and%20time%20of%20event%3A%0AOur%20organisation%3A%0AOur%20website%3A%0AMy%20name%3A%0AMy%20phone%20number%3A%0A%0ARegards%2C">Host your event</a>
 </div>
 
 
@@ -21,7 +21,7 @@ We love hosting interesting, creative organisations and events. So if you need a
 
 ## Pricing
 
-We have a choice of three spaces with different capacities and purposes as shown in the table below. 
+Most free events targeted at the entrepreneurial community are hosted for free. So get in touch today. For reference, if you don't qualify for free hosting, our prices are listed below. 
 
 <table>
     <tr>
@@ -56,12 +56,10 @@ We have a choice of three spaces with different capacities and purposes as shown
 
 ## Terms
 
-- Community events and those relevant to the entrepreneurial ecosystem are usually supported at no cost.
-- Sunday events are almost always charged.
+- Sunday events are almost always charged as we have to arrange for staff cover.
 - Marketing and/or corporate events are also usually charged.
-- We will provide chairs, tables and basic AV equipment as required. Day of event operations and additional supplies will be your responsibility.
-- It's your responsibility to promote the event and get people there. If you tag us in social links we will reshare. 
-- You need to make a full advance payment to block a space.
+- We will provide chairs, tables and basic AV equipment as required. Additional supplies will be your responsibility.
+- For public events, we will assist you in increasing outreach if you tag us in social links. 
 - Damage to Jaaga Startup equipment, building or property will be charged to you.
 - When you leave you must clear the space provided and the premises such that it is as good (if not better) than how found it.
 - We do not share our mailing list but are happy to share event details with our communities over email and social media.

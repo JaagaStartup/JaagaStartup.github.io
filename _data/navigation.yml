@@ -15,8 +15,8 @@
   side: left
 
 - title: "Resources"
-url: "/resources/"
-side: left
+  url: "/resources/"
+  side: left
 
 - title: "About"
   url: "/about/"
