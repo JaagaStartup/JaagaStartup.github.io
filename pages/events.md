@@ -9,7 +9,6 @@ permalink: "/events/"
 
 We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by requesting to host your event at Jaaga Startup. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem.
 
-**Please take a look at our calendar to ensure there are no clashes before submitting your event.**
 
 <div class="small-12 text-center columns">
 <a class="button large radius alert" href="mailto:hello@jaagastartup.in?Subject=Hosting%20an%20event%20at%20Jaaga%20Startup&Body=Hi%20Jaaga%20Startup%20team%21%0A%0AWe%20would%20like%20to%20host%20an%20event%20at%20Jaaga%20Startup.%20Please%20see%20details%20below%20and%20let%20us%20know%20next%20steps.%0A%0AName%20of%20event%3A%0APreferred%20date%20and%20time%20of%20event%3A%0AOur%20organisation%3A%0AOur%20website%3A%0AMy%20name%3A%0AMy%20phone%20number%3A%0A%0ARegards%2C">Host your event</a>
