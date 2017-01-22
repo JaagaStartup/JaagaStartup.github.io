@@ -1,1 +1,0 @@
-Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the needs of collaborative space, networking and mentorship amongst new entrepreneurs. We curate our community to create a balance of skills, sectors and networks to help each other build stronger ventures.

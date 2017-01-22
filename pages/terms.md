@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/terms/"
 ---
 
-{% include alert text='Last modified: March 8, 2016' %}
+_Last modified: March 8, 2016_
 
 [Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jS0IzQXB6OENGZXc/view?usp=sharing)
 
@@ -23,7 +23,7 @@ When You use our services, You will be subject to the terms, guidelines and poli
 Jaaga Startup  owns and operates the services provided through this Website. Jaaga Startup  reserves the right to modify or vary these terms and conditions and the privacy policy as may be necessary. Your continued use of the website and our services shall be deemed acceptance of the same.
 
 ### 1. Acceptance of Terms
-Please continue only if You accept the terms and conditions of use and the privacy policy (available at [jaagastartup.in/privacy](http://jaagastartup.in/privacy)) and our code of conduct ([jaagastartup.in/ethics-policy](http://jaagastartup.in/ethics-policy)).  These terms and conditions set forth the legally binding terms for Your use of our website and services. If You choose to continue browsing/using the website and/or avail our services, You unconditionally and irrevocably accept all the conditions and are bound by them.
+Please continue only if You accept the terms and conditions of use and the [privacy policy](/privacy) and our [code of conduct](/ethics/).  These terms and conditions set forth the legally binding terms for Your use of our website and services. If You choose to continue browsing/using the website and/or avail our services, You unconditionally and irrevocably accept all the conditions and are bound by them.
 
 We may change/modify the terms and conditions of use from time to time, at our discretion, without prior intimation to You and such modification shall be effective upon its posting on our website. You agree to be bound by any modification when You use the website after any such modification is posted. it is therefore important that You review these Terms regularly.
 
@@ -41,14 +41,14 @@ We, at Jaaga Startup  believe that it is imperative for a successful venture to 
 If You wish to become a member with Us, You must meet the following requirements:
 
 * Meet the eligibility, registration and applicability criteria as per the laws of India and these terms and conditions;
-- Submit the full and complete online application form (Please visit [jaagastartup.in/apply](http://jaagastartup.in/apply) for registration form);
+- Submit the full and complete [online application form](/cowork/apply);
 - Provide true and correct details for the information sought;
 - Wait for acceptance by Us
 - Once accepted, register with Us and create an account in accordance with the instructions provided; (as instructed by us over email);
 
 We may require a personal interview prior to accepting your application form. Jaaga Startup  reserves the right to accept or reject your application, without according any reason/s for the same. Please note that our acceptance or rejection will be communicated to You by e-mail.
 
-Once You are a registered member, You are entitled to use our website, Premises and all services provided therein subject to payment of membership fee. This membership fee is dependent on the “membership type” opted by You (please visit [jaagastartup.in/cowork](http://jaagastartup.in/cowork) to view the various membership options available for You).
+Once You are a registered member, You are entitled to use our website, Premises and all services provided therein subject to payment of membership fee. This membership fee is dependent on the [“membership type”](/pricing/) opted by You.
 
 The services available to You will depend on the membership type opted by You. It is Your sole responsibility to determine that your membership meets the needs of Your business and is suitable for the purposes for which it is used. Please note that this fee is non-refundable and is required to be paid in ‘advance’ or as per the ‘due date’ set by Us.
 
@@ -62,7 +62,7 @@ Jaaga Startup  reserves its right to terminate your membership without any prior
 If You wish to become our associate members or our affiliates, You must meet the following requirements:
 
 * Meet the eligibility, registration and applicability criteria as per the applicable laws in India and these terms and conditions;
-- Submit the full and complete online Application form (please visit [jaagastartup.in/work-with-our-ventures](http://jaagastartup.in/work-with-our-ventures) for registration form);
+- Submit the full and complete online [Application form](/vendors/apply/);
 - Provide true and correct details for the information sought;
 - Register with Us and create an account in accordance with the instructions provided; (as instructed by us over email);
 
@@ -206,4 +206,4 @@ These Terms are governed by the laws of India. Any matters arising under these t
 Those who access or use our website from other jurisdictions do so at their own volition and are responsible for compliance with the local law.
 
 ### 18. Contact for Grievances
-In case of any grievance arising from the use of the website or services provided, please contact the [jaagastartup.in/contact](http://jaagastartup.in/contact).
+In case of any grievance arising from the use of the website or services provided, please [contact us](/).

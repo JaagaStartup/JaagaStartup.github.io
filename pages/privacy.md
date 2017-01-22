@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/privacy/"
 ---
 
-{% include alert text='Last modified: March 8, 2016' %}
+_Last modified: March 8, 2016_
 
 [Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jemc4enNhQ2pqNFk/view?usp=sharing)
 
