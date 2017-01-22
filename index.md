@@ -2,6 +2,8 @@
 layout: default
 title: Home
 published: true
+redirect_from:
+  - /cowork/
 ---
 
 [![Brandmark][logo]](/)
