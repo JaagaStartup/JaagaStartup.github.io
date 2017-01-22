@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jaaga Startup - Collaborative Coworking
+title: Home
 published: true
 ---
 
@@ -24,7 +24,7 @@ We are a friendly, collaborative bunch that works together. We solve problems be
 
 Our community coworks out of spacious penthouse with a beautiful terrace garden on [Richmond Road in central Bangalore](https://goo.gl/maps/pfCoZAT3kXA2). 
 
-Drop in and experience a day of coworking with us: **completely free**! And here's a preview of your future workspace:
+Drop in and experience a day of coworking with us: **completely free**! And here's a preview of your future coworking space:
 
 ![Collage][collage]
 _For more browse through our [photo gallery](http://gallery.jaagastartup.in) and our [Facebook page](https://facebook.com/JaagaStartup)._
