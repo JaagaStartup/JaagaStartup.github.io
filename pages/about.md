@@ -23,11 +23,11 @@ Jaaga Startup is part of [Jaaga](http://jaaga.in), started in 2009. Our mission 
 |![Sarah][sarah]  |Sarah is ex-Goldman Sachs and brings another keen eye for detail. With a head for spreadsheets she can help separate the bullshit from reality when it comes to financial plans. Sarah is great at the questions that move you forward.|
 
 [kumar]: /public/kumar.png "Kupendra Kumar"
-[tej]: /public/tej.png "Tej Pochiraju"
-[archana]: /public/archana.png "Archana Prasad"
-[freeman]: /public/freeman.png "Freeman Murray"
+[tej]: /public/tej.jpg "Tej Pochiraju"
+[archana]: /public/archana.jpg "Archana Prasad"
+[freeman]: /public/freeman.jpg "Freeman Murray"
 [shaona]: /public/shaona.jpg "Shaona Sen"
-[sarah]: /public/sarah.png "Sarah Donnelly-Patel"
+[sarah]: /public/sarah.jpg "Sarah Donnelly-Patel"
 
 - - -
 
