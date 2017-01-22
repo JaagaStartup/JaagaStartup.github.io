@@ -20,9 +20,9 @@ Write to us at hello@jaagastartup.in with your requirements or click on the butt
 
 Most free events targeted at the entrepreneurial community are hosted for free. So get in touch today. For reference, if you don't qualify for free hosting, our prices are listed below. 
 
-|**Lounge**|Weekday evenings, weekends and holidays|30 people|&#8377; 1000/hour|
-|**Main Hall**|Weekends and holidays|80 people|&#8377; 1500/hour|
-|**Terrace**|Weekends and holidays|40 people|&#8377; 1000/hour|
+|**Lounge**|Weekday evenings, weekends and holidays|30 people|INR 1000/hour|
+|**Main Hall**|Weekends and holidays|80 people|INR 1500/hour|
+|**Terrace**|Weekends and holidays|40 people|INR 1000/hour|
 
 
 ## Right to Use
