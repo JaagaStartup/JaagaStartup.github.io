@@ -6,22 +6,30 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>
-    {% if page.title == "Home" %}
-    {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-    {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDBZ5Z');</script>
+<!-- End Google Tag Manager -->
 
-  <!-- CSS -->
-  <style>
+<title>
+  {% if page.title == "Home" %}
+  {{ site.title }} &middot; {{ site.tagline }}
+  {% else %}
+  {{ page.title }} &middot; {{ site.title }}
+  {% endif %}
+</title>
+
+<!-- CSS -->
+<style>
   {% include styles.min.css %}
-  </style>
+</style>
 
-  <!-- Icons -->
-  <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.png">
+<!-- Icons -->
+<link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.png">
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>
