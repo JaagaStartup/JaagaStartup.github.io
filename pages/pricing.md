@@ -6,10 +6,10 @@ permalink: "/pricing/"
 
 We offer three membership levels so you can participate as best suits you, your time and your budget. All membership plans are billed per person per month. Service tax at 15% is charged extra.
 
-|Driveby Jaagarnaut|Daily membership: flexible seating|₹250|
-|Friendly Jaagarnaut|1 month membership: flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays|₹2000|
-|Flexible Jaagarnaut|1 month membership: flexible seating|₹4000|
-|Steady Jaagarnaut|1 month membership: dedicated seating|₹5000|
+|Driveby Jaagarnaut|Daily membership: flexible seating|&#8377 250|
+|Friendly Jaagarnaut|1 month membership: flexible seating on all weekends + 5 full weekdays a month + pre-11am/post-6pm on all weekdays|&#8377 2000|
+|Flexible Jaagarnaut|1 month membership: flexible seating|&#8377 4000|
+|Steady Jaagarnaut|1 month membership: dedicated seating|&#8377 5000|
 
 <br />
 
