@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Location"
-meta_title: "Locate us - Jaaga Startup"
 permalink: "/location/"
 redirect_from:
   - /contact/

@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Ethics Policy"
-meta_title: "Ethics Policy - Jaaga Startup"
-subheadline: ""
-teaser: ""
 permalink: "/ethics/"
 ---
 

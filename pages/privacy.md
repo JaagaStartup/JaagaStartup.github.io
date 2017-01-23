@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Privacy Policy"
-meta_title: "Privacy Policy - Jaaga Startup"
-subheadline: ""
-teaser: ""
 permalink: "/privacy/"
 ---
 

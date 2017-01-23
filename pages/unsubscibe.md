@@ -1,9 +1,6 @@
 ---
 layout: page
-title: ""
-meta_title: "Unsubscribe"
-subheadline: ""
-teaser: ""
+title: "Unsubscribe"
 permalink: "/unsubscribe/"
 ---
 

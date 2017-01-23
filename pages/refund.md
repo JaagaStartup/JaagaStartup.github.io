@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Refund Policy"
-meta_title: "Refund Policy - Jaaga Startup"
-subheadline: ""
-teaser: ""
 permalink: "/refund/"
 ---
 

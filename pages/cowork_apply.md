@@ -1,9 +1,6 @@
 ---
 layout: page
-title: ""
-meta_title: "Apply for Coworking at Jaaga Startup"
-subheadline: ""
-teaser: ""
+title: "Apply for Coworking"
 permalink: "/cowork/apply/"
 ---
 

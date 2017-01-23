@@ -1,9 +1,6 @@
 ---
 layout: page
-title: "Events at Jaaga Startup"
-meta_title: "Events - Jaaga Startup"
-subheadline: ""
-teaser: ""
+title: "Events"
 permalink: "/events/"
 ---
 

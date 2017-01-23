@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Resources for Startups"
-meta_title: "Startup valuation, product management canvas, negotiation tools"
-subheadline: ""
-teaser: ""
 permalink: "/resources/"
 published: True
 ---

@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "About Us"
-meta_title: "About us - Jaaga Startup"
-subheadline: ""
-teaser: ""
 permalink: "/about/"
 ---
 
@@ -19,7 +16,7 @@ Jaaga Startup is part of [Jaaga](http://jaaga.in), started in 2009. Our mission 
 |![Tej][tej]  |Tej is the CEO. As an ex-Jaaga coworker he understands your needs. He is a hardware entrepreneur focused on sustainable engineering and understands product, having delivered 40+ products to clients.|
 |![Archana][archana]  |Archana founded Jaaga with Freeman Murray. She is a designer (NID) and intuitively understands community building. Archana is passionate about building Bangalore's heritage in arts and entrepreneurship.|
 |![Freeman][freeman]  |Freeman founded Jaaga with Archana Prasad. He is a silicon valley entrepreneur who helped build one of India's first accelerators - iAccelerator at IIM-A. Freeman is passionate about the role of software in building better lives and livelihoods.|
-|![Shaona][shaona]  |Shaona is a designer and a primary sounding board for Tej. She is great at both - big picture, futuristic thinking as well the details that make good things great. When not at Jaaga, Shaona uses football to help children develop life skills.|
+|![Shaona][shaona]  |Shaona is passionate about research-driven, iterative product/service design. She is great at big picture, futuristic thinking as well the details that make good things great. When not at Jaaga, Shaona uses football to help children develop life skills.|
 |![Sarah][sarah]  |Sarah is ex-Goldman Sachs and brings another keen eye for detail. With a head for spreadsheets she can help separate the bullshit from reality when it comes to financial plans. Sarah is great at the questions that move you forward.|
 
 [kumar]: /public/kumar.png "Kupendra Kumar"

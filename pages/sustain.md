@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Incubate at Jaaga Startup"
-meta_title: "Sustain - Jaaga Startup"
-subheadline: ""
-teaser: ""
 permalink: "/sustain/"
 published: False
 ---

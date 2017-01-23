@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Terms and Conditions"
-meta_title: "Terms and Conditions - Jaaga Startup"
-subheadline: ""
-teaser: ""
 permalink: "/terms/"
 ---
 

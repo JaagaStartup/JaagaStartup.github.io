@@ -1,9 +1,6 @@
 ---
 layout: page
-title: ""
-meta_title: "Become a vendor for our community"
-subheadline: ""
-teaser: ""
+title: "Become a vendor for our community"
 permalink: "/vendors/apply/"
 ---
 
