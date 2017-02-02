@@ -5,7 +5,7 @@ permalink: "/partners/"
 ---
 
 |![AWS][aws]  |![IBM][IBM]  |![Microsoft][microsoft]  |
-|![exotel][exotel]  |![freshdesk][freshdesk]  |![cumulations][cumulations]  |
+|![exotel][exotel]  |![cumulations][cumulations]  |![freshdesk][freshdesk]  |
 |![Paytm][paytm]  |![stripe][stripe]  |![rbl][rbl]  |
 |![1Crowd][1crowd]  |![marketlabz][marketlabz]  |![smart-marketing-tribe][smart-marketing-tribe]  |
 
