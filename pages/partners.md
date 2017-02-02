@@ -7,7 +7,7 @@ permalink: "/partners/"
 |![AWS][aws]  |![IBM][IBM]  |![Microsoft][microsoft]  |
 |![exotel][exotel]  |![freshdesk][freshdesk]  |![cumulations][cumulations]  |
 |![Paytm][paytm]  |![stripe][stripe]  |![rbl][rbl]  |
-|![1Crowd][1crowd]  |![smart-marketing-tribe][smart-marketing-tribe]  |![marketlabz][marketlabz]  |
+|![1Crowd][1crowd]  |![marketlabz][marketlabz]  |![smart-marketing-tribe][smart-marketing-tribe]  |
 
 
 [aws]: /public/aws.png "Amazon Web Services - $1000 credit"
@@ -19,6 +19,6 @@ permalink: "/partners/"
 [stripe]: /public/stripe.png "Stripe Atlas - expedited business setup and global payments processing"
 [rbl]: /public/rbl.png "RBL - expedited banking and startup advice"
 [smart-marketing-tribe]: /public/smartmarketingtribe.png "Smart Marketing Tribe - Digital marketing advice and training"
-[market-labz]: /public/marketlabz.jpg "Market Labz - Digital marketing advice and services"
+[marketlabz]: /public/marketlabz.jpg "Market Labz - Digital marketing advice and services"
 [exotel]: /public/exotel.png "Exotel - 6 months free service"
 [freshdesk]: /public/freshdesk.png "FreshDesk - 6 months free service"
