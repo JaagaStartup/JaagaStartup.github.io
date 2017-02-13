@@ -8,6 +8,7 @@ permalink: "/partners/"
 |![cumulations][cumulations]  |![exotel][exotel]  |![freshdesk][freshdesk]  |
 |![Paytm][paytm]  |![stripe][stripe]  |![rbl][rbl]  |
 |![1Crowd][1crowd]  |![marketlabz][marketlabz]  |![smart-marketing-tribe][smart-marketing-tribe]  |
+|![bizjumper][bizjumper]  |![startup-league][startup-league]  |  |
 
 
 [aws]: /public/aws.png "Amazon Web Services - $1000 credit"
@@ -22,3 +23,5 @@ permalink: "/partners/"
 [marketlabz]: /public/marketlabz.jpg "Market Labz - Digital marketing advice and services"
 [exotel]: /public/exotel.png "Exotel - 6 months free service"
 [freshdesk]: /public/freshdesk.png "FreshDesk - 6 months free service"
+[bizjumper]: /public/bizjumper.png "Bizjumper - Business models and planning"
+[startup-league]: /public/startup-league.jpg "Radix Startup League - Free domain name and event sponsorship"
