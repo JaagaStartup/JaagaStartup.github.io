@@ -1,3 +1,20 @@
+.im-checkout-btn {
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  background: #F05123;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.im-checkout-btn:hover {
+  background: #114d9c;
+  text-decoration: none;
+}
+
 dd,h1,h2,h3,h4,h5,h6 {
     margin-bottom: .5rem
 }
@@ -457,9 +474,9 @@ a.sidebar-contact-item:focus,a.sidebar-contact-item:hover,a.sidebar-nav-item:foc
     background-color: #114d9c
 }
 
-.theme-base-0b .content a,.theme-base-0b .related-posts li a:hover {
+/*.theme-base-0b .content a,.theme-base-0b .related-posts li {
     color: #F05123
-}
+}*/
 
 button.alert,.button.alert {
     background-color: #F05123;

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+{% include head.html %}
+{% seo %}
+
+<body class="theme-base-0b">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDBZ5Z"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+    <script type="text/javascript">
+      (function() {
+        var css = document.createElement('link');
+        css.href = '//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css';
+        css.rel = 'stylesheet';
+        css.type = 'text/css';
+        document.getElementsByTagName('head')[0].appendChild(css);
+      })();
+    </script>
+
+    <script type="text/javascript">
+      (function() {
+        var css = document.createElement('link');
+        css.href = '//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700';
+        css.rel = 'stylesheet';
+        css.type = 'text/css';
+        document.getElementsByTagName('head')[0].appendChild(css);
+      })();
+    </script>
+
+  </body>
+  </html>

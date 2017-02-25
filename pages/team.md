@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Us"
-permalink: "/about/"
+permalink: "/team/"
 ---
 
 Jaaga Startup is part of [Jaaga](http://jaaga.in), started in 2009. Our mission is to strengthen ventures solving real world problems and we do this by engaging closely with entrepreneurs in a collaborative community. We curate our community to create a balance of skills, sectors and networks to help each other build stronger ventures.
