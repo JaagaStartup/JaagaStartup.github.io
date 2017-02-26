@@ -4,7 +4,7 @@ title: "Affordable coworking in central Bangalore"
 permalink: "/pricing/"
 ---
 
-We offer multiple membership levels starting at Rs. 250. All membership plans are billed per person. Service tax at 15% is charged extra.
+We offer multiple membership levels starting at Rs. 250. All membership plans are billed per person. All plans include high-speed internet, free access to meeting areas and unlimited self-serve tea/coffee. Service tax at 15% is charged extra.
 
 |Day Pass|Flexible seating in open area|INR 250|
 |1 Week Pass|Flexible seating in open area|INR 1200|

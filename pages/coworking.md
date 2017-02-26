@@ -2,6 +2,8 @@
 layout: page
 title: "Discover the benefits of coworking"
 permalink: "/coworking/"
+redirect_from:
+  - /cowork/
 ---
 
 ## Get over $150000 worth of freebies from our partners!
@@ -23,19 +25,19 @@ permalink: "/coworking/"
 
 ## Facilities
 
-- High speed, load-balanced internet backed by enterprise hardware
+- 24x7 access for full-time members
 - Free access to multiple meeting + ideation spaces and a dedicated tele-conference room
-- Lots of open spaces with greenery all around - lounge, dining area, terraces
-- Kitchen well-stocked with food, cooking appliances and unlimited tea/coffee/purified drinking water
-- Free lockers to keep your stuff secure
 - Free access to a hardware prototyping lab with 3D printers, development kits, soldering station and other tools
+- Free lockers to keep your stuff secure
+- High speed, high-availability internet run on enterprise-grade hardware
+- Lots of open spaces with greenery all around - lounge, dining area, terraces
+- Kitchen well-stocked with food, cooking appliances and unlimited tea/coffee/Bisleri water
 
 ## Programs
 
-- Our own custom product management framework to help you make the right decisions
 - Collaboration and networking facilitated through daily lunches and weekly learning sessions + socials
 - Access to a large pool of skilled resources to help you build your product/service better, faster
-- Access to expert-led workshops and 1-1s covering a range of essential topics
+- Access to expert-led workshops and 1-1s covering a range of essential skills
 
 
 [aws]: /public/partners/aws.png "Amazon Web Services - $1000 credit"
