@@ -8,7 +8,7 @@ We offer multiple membership levels starting at Rs. 250. All membership plans ar
 
 |Day Pass|Flexible seating in open area|INR 250|
 |1 Week Pass|Flexible seating in open area|INR 1200|
-|2 Week Pass|Flexible seating in open area|INR 2200|
+|2 Week Pass|Flexible seating in open area|INR 2300|
 |All evenings|Flexible seating in open area|INR 2300|
 |1 Month Flexible|Flexible seating in open area + partner perks|INR 4000|
 |1 Month Dedicated|Dedicated seating in a room + partner perks|INR 5000|
