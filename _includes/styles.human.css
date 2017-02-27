@@ -10,6 +10,12 @@
   text-decoration: none;
 }
 
+.im-checkout {
+  max-width: 300px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 .im-checkout-btn:hover {
   background: #114d9c;
   text-decoration: none;
