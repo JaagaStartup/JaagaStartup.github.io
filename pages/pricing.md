@@ -15,10 +15,7 @@ We offer multiple membership levels starting at Rs. 250. All membership plans ar
 |1 Month Flexible in Jaaga DNA, Malleshwaram|Dedicated seating in a room + partner perks|INR 5000|
 
 
-<br>
-<a class="button large radius alert" href="/apply/">Join Us</a>
-<br>
-<br>
+<div class="im-checkout btn-82"><a href="/apply/" class="im-checkout-btn">Join Us</a></a></div>
 
 <a href="https://www.instamojo.com/jaagastartup/jaaga-coworking-membership/" rel="im-checkout" data-behaviour="remote" data-style="no-style" data-text="Pay for your membership"></a>
 <script src="https://d2xwmjc4uy2hr5.cloudfront.net/im-embed/im-embed.min.js"></script>
