@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Locations
-permalink: /location/
+permalink: /locations/
 redirect_from:
   - /contact/
 published: true
