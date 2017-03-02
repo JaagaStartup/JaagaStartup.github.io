@@ -18,4 +18,4 @@ _For more browse through our [photo gallery](http://gallery.jaagastartup.in) and
 
 [logo]: /public/logo.png "Jaaga Startup"
 
-[collage]: /public/collage.jpg "Spacious, green and with fast internet :-)"
+[collage]: /public/collage2.jpg "Helping ventures grow since 2009!"
