@@ -38,7 +38,7 @@ We, at Jaaga Startup  believe that it is imperative for a successful venture to 
 If You wish to become a member with Us, You must meet the following requirements:
 
 * Meet the eligibility, registration and applicability criteria as per the laws of India and these terms and conditions;
-- Submit the full and complete [online application form](/cowork/apply);
+- Submit the full and complete [online application form](/apply/);
 - Provide true and correct details for the information sought;
 - Wait for acceptance by Us
 - Once accepted, register with Us and create an account in accordance with the instructions provided; (as instructed by us over email);
