@@ -1,3 +1,7 @@
 s3_id: <%= ENV['s3_id'] %>
 s3_secret: <%= ENV['s3_secret'] %>
 s3_bucket: dev.jaagastartup.in
+cache_control: public, no-transform, max-age=86400
+gzip: true
+s3_endpoint: ap-south-1
+
