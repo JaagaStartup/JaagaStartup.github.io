@@ -16,13 +16,14 @@ permalink:        pretty
 # Setup
 title:            Jaaga Coworking
 tagline:          'Share office space and skills with startups and freelancers'
-description:      'Cowork, collaborate, grow'
+description:      'Cowork, Collaborate, Grow'
 url:              https://jaagastartup.in
 baseurl:          
 
 author:
-  name:           'Jaaga Startup'
+  name:           'Jaaga Coworking Community'
   url:            https://www.facebook.com/JaagaStartup
+  email:          hello@jaagastartup.in
 
 # paginate:         5
 # paginate_path:    "/blog/page:num/"
@@ -35,3 +36,5 @@ exclude:
   - Gulpfile.js
   - package.json
   - build+deploy.sh
+  - s3_website.yml
+  - README.md
