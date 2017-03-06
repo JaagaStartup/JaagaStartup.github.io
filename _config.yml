@@ -18,7 +18,7 @@ title:            Jaaga Coworking
 tagline:          'Share office space and skills with startups and freelancers'
 description:      'Cowork, collaborate, grow'
 url:              https://jaagastartup.in
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Jaaga Startup'
