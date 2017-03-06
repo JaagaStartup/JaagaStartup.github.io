@@ -6,6 +6,7 @@ install:
   - gem install jekyll -v 3.3.1 
   - gem install jekyll-redirect-from jekyll-paginate jekyll-minify-html jekyll-seo-tag jekyll-sitemap
   - gem install s3_website
+  - gem install html-proofer
 
 script: 
   - jekyll build
