@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Locations
+description: "Two locations: Central Bangalore on Richmond Road and Malleshwaram"
 permalink: /locations/
 redirect_from:
   - /contact/

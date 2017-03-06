@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Us"
+description: "The team that built India's first coworking community."
 permalink: "/team/"
 ---
 

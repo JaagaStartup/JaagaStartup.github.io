@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Affordable coworking in central Bangalore
+title: The most affordable way to share office space and skills with fellow startups and freelancers
+description: "We are a not-for-profit community and offer best-in-class infrastructure and support at highly affordable prices. As a result you save your resources for building your venture better."
 permalink: /pricing/
 published: true
 ---

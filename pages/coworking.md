@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Discover the benefits of coworking"
-permalink: "/coworking/"
+title: "Get over $150000 worth of freebies from our partners!"
+description: "24x7 access | No deposits or contracts | Over $150,000 in partner perks | Expert skill sharing"
+permalink: "/coworking-benefits/"
 redirect_from:
   - /cowork/
+  - /coworking/
 ---
-
-## Get over $150000 worth of freebies from our partners!
 
 |![AWS][aws]|Amazon Web Services - $1000 credit|
 |![IBM][IBM]|IBM Bluemix - $1000/month credit for 1 year|

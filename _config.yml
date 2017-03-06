@@ -8,15 +8,16 @@ gems:
   - jekyll-paginate
   - jekyll-minify-html
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Jaaga Startup
-tagline:          'Community space and programs for entrepreneurs'
+title:            Jaaga Coworking
+tagline:          'Share office space and skills with startups and freelancers'
 description:      'Cowork, collaborate, grow'
-url:              http://jaagastartup.in
+url:              https://jaagastartup.in
 baseurl:          /
 
 author:

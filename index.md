@@ -1,21 +1,23 @@
 ---
-layout: landing
-title: Home
+layout: default
+title: Share skills and office space in Bangalore
+<!-- title: Home -->
+description: Affordable coworking and shared workspace for startups and freelancers to share skills and build better ventures.
 published: true
 ---
 
 [![Brandmark][logo]](/)
 
-# Welcome to India's first coworking community
+# Cowork affordably at India's first and only not-for-profit coworking community for entrepreneurs
 
-Since 2009 over 400 of us have worked, learned, played and grown together. As a not-for-profit community, our focus is on collaboration within an affordable, beautiful and productive workspace.
+Since 2009 over 400 of us have worked, learned, played and grown together. Our focus is on collaboration within an affordable, beautiful and productive workspace.
 
-Key benefits of membership include 24x7 access, no deposits or contracts, advice on best practices from peer experts and over [$150,000 worth of perks](/coworking/) from our partners.
+Key benefits of membership include 24x7 access, no deposits or contracts, advice on best practices from peer experts and over [$150,000 worth of perks](/coworking/) from our partners such as Microsoft, IBM and AWS.
 
 ![Collage][collage]
 _For more browse through our [photo gallery](http://gallery.jaagastartup.in) and our [Facebook page](https://facebook.com/JaagaStartup)._
 
 
-[logo]: /public/logo.png "Jaaga Startup"
+[logo]: /public/logo.png "Jaaga Startup Brandmark"
 
-[collage]: /public/collage2.jpg "Helping ventures grow since 2009!"
+[collage]: /public/collage2.jpg "Helping startups and freelancers build great ventures since 2009!"

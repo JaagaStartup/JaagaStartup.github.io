@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ethics Policy"
+description: "These ethics guide the community"
 permalink: "/ethics/"
 ---
 
