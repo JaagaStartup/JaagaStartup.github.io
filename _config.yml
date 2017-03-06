@@ -38,3 +38,4 @@ exclude:
   - build+deploy.sh
   - s3_website.yml
   - README.md
+  - vendor

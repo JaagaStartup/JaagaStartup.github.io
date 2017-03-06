@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'jekyll', '3.3.1'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
+gem 'jekyll-minify-html'
+gem 'jekyll-paginate'
+gem 'jekyll-redirect-from'
+gem 's3_website'
