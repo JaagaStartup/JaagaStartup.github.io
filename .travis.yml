@@ -2,8 +2,13 @@ language: ruby
 rvm:
   - 2.2
 
-# install: gem install jekyll -v 3.3.1 && gem install s3_website jekyll-redirect-from jekyll-paginate jekyll-minify-html jekyll-seo-tag jekyll-sitemap
+install: 
+  - gem install jekyll -v 3.3.1 
+  - gem install jekyll-redirect-from jekyll-paginate jekyll-minify-html jekyll-seo-tag jekyll-sitemap
+  - gem install s3_website
 
-script: jekyll build
+script: 
+  - jekyll build
+  - htmlproof _site
 
 after_success: s3_website push
