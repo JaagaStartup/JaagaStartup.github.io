@@ -5,6 +5,8 @@ description: Affordable coworking and shared office space for startups and freel
 published: true
 ---
 
+{% include org_structured_data.html %}
+
 [![Brandmark][logo]](/)
 
 # Cowork affordably at India's first and only not-for-profit coworking community for entrepreneurs

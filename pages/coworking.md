@@ -8,6 +8,8 @@ redirect_from:
   - /coworking/
 ---
 
+{% include products_structured_data.html %}
+
 |![AWS][aws]|Amazon Web Services - $1000 credit|
 |![IBM][IBM]|IBM Bluemix - $1000/month credit for 1 year|
 |![Microsoft][microsoft]|Microsoft BizSpark - $750/month for 3 years or $120,000/2 years|
@@ -15,6 +17,7 @@ redirect_from:
 |![freshdesk][freshdesk]|FreshDesk - 6 months free service|
 |![Paytm][paytm]|PayTM - fee-free transactions up to Rs. 300,000|
 |![stripe][stripe]|Stripe Atlas - expedited business setup and global payments processing|
+|![winglio][winglio]|Winglio - company sharing for invoicing and accepting payments globally - free setup worth EUR 99|
 |![rbl][rbl]|RBL - expedited banking and startup advice|
 |![1Crowd][1crowd]|1Crowd - equity crowdfunding advice and evaluation for select startups|
 |![cumulations][cumulations]|Cumulations - mobile app development specialists|
@@ -54,5 +57,6 @@ redirect_from:
 [freshdesk]: /public/partners/freshdesk.png "FreshDesk - 6 months free service"
 [bizjumper]: /public/partners/bizjumper.png "Bizjumper - Business models and planning"
 [startup-league]: /public/partners/startup-league.png "Radix Startup League - Free domain name and event sponsorship"
+[winglio]: /public/partners/winglio.png "Winglio - company sharing for invoicing and accepting payments globally - free setup worth EUR 99"
 
 

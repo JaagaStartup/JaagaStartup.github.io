@@ -6,6 +6,8 @@ permalink: /pricing/
 published: true
 ---
 
+{% include products_structured_data.html %}
+
 We offer multiple membership levels starting at Rs. 250. All membership plans are billed per person. All plans include high-speed internet, free access to meeting areas and unlimited self-serve tea/coffee. Service tax at 15% is charged extra.
 
 |Day Pass|Flexible seating in open area|INR 250|
