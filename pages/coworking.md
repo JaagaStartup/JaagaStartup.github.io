@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Get over $150000 worth of freebies from our partners!"
+title: "Get over $150,000 worth of freebies from our partners!"
 description: "24x7 access | No deposits or contracts | Over $150,000 in partner perks | Expert skill sharing"
 permalink: "/coworking-benefits/"
 redirect_from:
@@ -58,5 +58,4 @@ redirect_from:
 [bizjumper]: /public/partners/bizjumper.png "Bizjumper - Business models and planning"
 [startup-league]: /public/partners/startup-league.png "Radix Startup League - Free domain name and event sponsorship"
 [winglio]: /public/partners/winglio.png "Winglio - company sharing for invoicing and accepting payments globally - free setup worth EUR 99"
-
 

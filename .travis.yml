@@ -5,14 +5,18 @@ env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
-install: 
-  - gem install jekyll -v 3.3.1 
-  - gem install jekyll-redirect-from jekyll-paginate jekyll-minify-html jekyll-seo-tag jekyll-sitemap
-  - gem install s3_website
-  - gem install html-proofer
+cache: 
+  - bundler
+
+# install: 
+#   - gem install jekyll -v 3.3.1 
+#   - gem install jekyll-redirect-from jekyll-paginate jekyll-minify-html jekyll-seo-tag jekyll-sitemap
+#   - gem install s3_website
+#   - gem install html-proofer
 
 script: 
-  - jekyll build
-  - htmlproofer _site
+  - bundle exec jekyll build
+  - bundle exec htmlproofer _site
 
-after_success: s3_website push
+after_success:
+  - bundle exec s3_website push

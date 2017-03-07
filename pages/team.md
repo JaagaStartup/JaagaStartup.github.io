@@ -5,6 +5,8 @@ description: "The team that built India's first coworking community."
 permalink: "/team/"
 ---
 
+{% include org_structured_data.html %}
+
 Jaaga Startup is part of [Jaaga](http://jaaga.in), started in 2009. We introduced coworking to India as a means to bring together passionate folks who want to create new impacts. Our mission is to strengthen ventures solving real world problems and we do this by engaging closely with entrepreneurs in a collaborative community. We curate our community to create a balance of skills, sectors and networks to help each other build stronger ventures.
 
 - For our urban arts initiative, head over to [**Jaaga DNA**](http://jaaga.in/dna)
