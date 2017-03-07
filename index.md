@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Share skills and office space in Bangalore
-<!-- title: Home -->
-description: Affordable coworking and shared workspace for startups and freelancers to share skills and build better ventures.
+title: Share skills and office space with startups and freelancers in Bangalore
+description: Affordable coworking and shared office space for startups and freelancers to share skills and build better ventures.
 published: true
 ---
 
