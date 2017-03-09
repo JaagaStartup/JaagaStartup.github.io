@@ -1,7 +1,12 @@
 ---
 layout: page
-title: The most affordable way to share office space and skills with fellow startups and freelancers
-description: "We are a not-for-profit community and offer best-in-class infrastructure and support at highly affordable prices. As a result you save your resources for building your venture better."
+title: >-
+  The most affordable way to share office space and skills with fellow startups
+  and freelancers
+description: >-
+  We are a not-for-profit community and offer best-in-class infrastructure and
+  support at highly affordable prices. As a result you save your resources for
+  building your venture better.
 permalink: /pricing/
 published: true
 ---
@@ -15,7 +20,7 @@ We offer multiple membership levels starting at Rs. 250. All membership plans ar
 |All evenings|Flexible seating in open area|INR 2000|
 |1 Month Flexible|Flexible seating in open area + partner perks|INR 4000|
 |1 Month Dedicated|Dedicated seating in a room + partner perks|INR 5000|
-|1 Month Flexible in Jaaga DNA, Malleshwaram|Dedicated seating in a room + partner perks|INR 5000|
+|1 Month Flexible in Jaaga DNA, Malleshwaram|Flexible seating in a room + partner perks|INR 5000|
 
 
 <div class="im-checkout btn-82"><a href="/apply/" class="im-checkout-btn">Join Us</a></div>
