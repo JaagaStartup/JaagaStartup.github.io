@@ -17,7 +17,7 @@ We offer multiple membership levels starting at Rs. 250. All membership plans ar
 
 |[Day Pass][instamojo-coworking]|Flexible seating in open area|INR 250|
 |[1 Week Pass][instamojo-coworking]|Flexible seating in open area|INR 1200|
-|[All evenings][startup-coworking-evenings]|Flexible seating in open area|INR 2000|
+|[1 Month Flexible - Off Peak (6pm - 11am)][startup-coworking-evenings]|Flexible seating in open area|INR 2000|
 |[1 Month Flexible][startup-coworking-flexible]|Flexible seating in open area + partner perks|INR 4000|
 |[1 Month Dedicated][startup-coworking-dedicated]|Dedicated seating in a room + partner perks|INR 5000|
 |[1 Month Flexible in Jaaga DNA, Malleshwaram][dna-coworking-flexible]|Flexible seating in a room + partner perks|INR 4000|
