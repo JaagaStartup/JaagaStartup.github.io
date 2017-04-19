@@ -1,18 +1,22 @@
 ---
 layout: page
-title: "Get over $150,000 worth of freebies from our partners!"
-description: "24x7 access | No deposits or contracts | Over $150,000 in partner perks | Expert skill sharing"
-permalink: "/coworking-benefits/"
+title: 'Get over $150,000 worth of freebies from our partners!'
+description: >-
+  24x7 access | No deposits or contracts | Over $150,000 in partner perks |
+  Expert skill sharing
+permalink: /coworking-benefits/
 redirect_from:
   - /cowork/
   - /coworking/
+published: true
 ---
 
 {% include products_structured_data.html %}
 
-|![AWS][aws]|Amazon Web Services - $1000 credit|
+|![AWS][aws]|Amazon Web Services - $1000 credit for 1 year|
 |![IBM][IBM]|IBM Bluemix - $1000/month credit for 1 year|
 |![Microsoft][microsoft]|Microsoft BizSpark - $750/month for 3 years or $120,000/2 years|
+|![DigitalOcean][digitalocean]|DigitalOcean Hatch - $500 credit for 1 year|
 |![exotel][exotel]|Exotel - 6 months free service|
 |![freshdesk][freshdesk]|FreshDesk - 6 months free service|
 |![Paytm][paytm]|PayTM - fee-free transactions up to Rs. 300,000|
@@ -46,6 +50,7 @@ redirect_from:
 [aws]: /public/partners/aws.png "Amazon Web Services - $1000 credit"
 [IBM]: /public/partners/bluemix.png "IBM Bluemix - $1000/month credit for 1 year"
 [microsoft]: /public/partners/bizspark.png "Microsoft BizSpark - $750/month for 3 years or $120,000/2 years"
+[digitalocean]: /public/partners/digitalocean.png "DigitalOcean Hatch - $500 credit for 1 year"
 [cumulations]: /public/partners/cumulations.png "Cumulations - mobile app development specialists"
 [paytm]: /public/partners/paytm.png "PayTM - fee-free transactions up to Rs. 300,000"
 [1crowd]: /public/partners/1crowd.png "1Crowd - equity crowdfunding advice and evaluation for select startups"
@@ -58,4 +63,3 @@ redirect_from:
 [bizjumper]: /public/partners/bizjumper.png "Bizjumper - Business models and planning"
 [startup-league]: /public/partners/startup-league.png "Radix Startup League - Free domain name and event sponsorship"
 [winglio]: /public/partners/winglio.png "Winglio - company sharing for invoicing and accepting payments globally - free setup worth EUR 99"
-
