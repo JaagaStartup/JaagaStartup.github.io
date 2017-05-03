@@ -14,14 +14,14 @@ gems:
 permalink:        pretty
 
 # Setup
-title:            Jaaga Coworking
+title:            Jaaga Startup
 tagline:          'Share skills and office space with startups and freelancers in Bangalore'
 description:      'Cowork, Collaborate, Grow'
 url:              https://jaagastartup.in
 baseurl:          
 
 author:
-  name:           'Jaaga Coworking Community'
+  name:           'Jaaga Startup'
   url:            https://www.facebook.com/JaagaStartup
   email:          hello@jaagastartup.in
 
