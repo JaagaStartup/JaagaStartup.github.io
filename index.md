@@ -11,7 +11,7 @@ published: true
 
 [![Brandmark][logo]](/)
 
-# Cowork affordably at India's first and only not-for-profit coworking community for startups and freelancers
+# Cowork affordably at India's first coworking community for startups and freelancers
 
 Since 2009 over 400 of us have worked, learned, played and grown together. Our focus is on collaboration within an affordable, beautiful and productive workspace.
 
