@@ -15,6 +15,7 @@ published: true
 
 |[Day Pass][instamojo-coworking]|INR 400|
 |[1 Week Pass][instamojo-coworking]|INR 2000|
+|Off-peak monthly membership at Jaaga Startup|INR 3000|
 |Monthly membership at Jaaga Startup|INR 5000|
 |Monthly membership at Jaaga DNA, Malleshwaram|INR 4000|
 
@@ -23,6 +24,8 @@ published: true
 - All membership plans are billed per person.
 - Service tax at 15% is charged extra. 
 - All memberships come with flexible seating as default. You can reserve your seating at Rs. 300 per person per month extra.
+- 1 week pass (5 working days + all weekends) can be used anytime within the calendar month. 
+- Off-peak hours are 6pm - 10am.
 - Monthly memberships come with [partner perks][partner-perks]. 
 - All plans include high-speed internet, free access to meeting areas and unlimited self-serve tea/coffee.
 
