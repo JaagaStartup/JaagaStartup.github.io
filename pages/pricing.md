@@ -28,6 +28,7 @@ published: true
 - Off-peak hours are 6pm - 10am.
 - Monthly memberships come with [partner perks][partner-perks]. 
 - All plans include high-speed internet, free access to meeting areas and unlimited self-serve tea/coffee.
+- Payment toward extra seats you then don't need are converted into credits you can use in your next billing cycle(s).
 
 ### Loyalty discounts
 
