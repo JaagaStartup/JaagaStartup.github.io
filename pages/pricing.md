@@ -13,7 +13,7 @@ published: true
 
 {% include products_structured_data.html %}
 
-|[Day Pass][instamojo-coworking]|INR 400|
+|[Day Pass][instamojo-coworking]|INR 500|
 |[1 Week Pass][instamojo-coworking]|INR 2000|
 |Off-peak monthly membership at Jaaga Startup|INR 3000|
 |Monthly membership at Jaaga Startup|INR 5000|
