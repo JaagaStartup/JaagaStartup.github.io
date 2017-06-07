@@ -25,6 +25,7 @@ published: true
 |![rbl][rbl]|RBL - expedited banking and startup advice|
 |![1Crowd][1crowd]|1Crowd - equity crowdfunding advice and evaluation for select startups|
 |![cumulations][cumulations]|Cumulations - mobile app development specialists|
+|![sendpulse][sendpulse]|SendPulse - $5000 worth of email marketing credits|
 |![marketlabz][marketlabz]|Market Labz - Digital marketing advice and services|
 |![smart-marketing-tribe][smart-marketing-tribe]|Smart Marketing Tribe - Digital marketing advice and training|
 |![bizjumper][bizjumper]|Bizjumper - Business models and planning|
@@ -63,3 +64,4 @@ published: true
 [bizjumper]: /public/partners/bizjumper.png "Bizjumper - Business models and planning"
 [startup-league]: /public/partners/startup-league.png "Radix Startup League - Free domain name and event sponsorship"
 [winglio]: /public/partners/winglio.png "Winglio - company sharing for invoicing and accepting payments globally - free setup worth EUR 99"
+[sendpulse]: /public/partners/sendpulse.png "SendPulse is a single platform for E-mail campaigns, Push notifications, SMS, SMTP service, that maximizes open rate - automatically with Artificial Intelligence, Hyper-personalization, Predictive analysis."
