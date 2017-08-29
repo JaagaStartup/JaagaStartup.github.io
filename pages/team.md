@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "About Us"
-description: "The team that built India's first coworking community."
-permalink: "/team/"
+title: About Us
+description: The team that built India's first coworking community.
+permalink: /team/
+published: true
 ---
 
 {% include org_structured_data.html %}
@@ -15,8 +16,7 @@ Jaaga Startup is part of [Jaaga](http://jaaga.in), started in 2009. We introduce
 ## Our Team
 
 
-|![Kumar][kumar]  |Kumar (aka KK, aka Veeru) is the centre manager. He is patient, efficient and loves the energy that coworkers bring. When he's not at his desk Kumar is tending to our terrace garden.|
-|![Tej][tej]  |Tej is the CEO. As an ex-Jaaga coworker he understands your needs. He is a hardware entrepreneur focused on sustainable engineering and understands product, having delivered 40+ products to clients.|
+|![Tej][tej]  |Tej is the Director. As an ex-Jaaga coworker he understands your needs. He is a hardware entrepreneur focused on sustainable engineering and understands product, having delivered 40+ products to clients.|
 |![Archana][archana]  |Archana founded Jaaga with Freeman Murray. She is a designer (NID) and intuitively understands community building. Archana is passionate about building Bangalore's heritage in arts and entrepreneurship.|
 |![Freeman][freeman]  |Freeman founded Jaaga with Archana Prasad. He is a silicon valley entrepreneur who helped build one of India's first accelerators - iAccelerator at IIM-A. Freeman is passionate about the role of software in building better lives and livelihoods.|
 |![Shaona][shaona]  |Shaona is passionate about research-driven, iterative product/service design. She is great at big picture, futuristic thinking as well the details that make good things great. When not at Jaaga, Shaona uses football to help children develop life skills.|
