@@ -37,7 +37,7 @@ published: true
 |Yearly Membership|20%|
 
 
-[partner-perks]: https://jaagastartup.in/coworking-benefits/ "Coworking benefits at Jaaga Startup"
+[partner-perks]: http://startup.jaaga.in/coworking-benefits/ "Coworking benefits at Jaaga Startup"
 [instamojo-coworking]: https://www.instamojo.com/jaagastartup/jaaga-coworking-membership/ "Buy your Jaaga Coworking Membership on Instamojo"
 [startup-coworking-evenings]: https://subscriptions.zoho.com/subscribe/e4a9a3f037b6855dd1e922dcdc9d29b86a2bba0f6b053217afe8ded60e8a6aa6/cowork-friendly "1 Month - All Evenings - Coworking at Jaaga Startup"
 [startup-coworking-flexible]: https://subscriptions.zoho.com/subscribe/e4a9a3f037b6855dd1e922dcdc9d29b86a2bba0f6b053217afe8ded60e8a6aa6/cowork-flexible "1 Month Flexible Coworking at Jaaga Startup"

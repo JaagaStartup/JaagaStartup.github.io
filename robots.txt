@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://jaagastartup.in/sitemap.xml
+Sitemap: http://startup.jaaga.in/sitemap.xml

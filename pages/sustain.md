@@ -53,4 +53,4 @@ Over and beyond the benefits mentioned above,
 
 ---
 
-_The Sustain initiative builds on learnings from our design research project, [Project Sphere](http://projectsphere.jaagastartup.in)._
+_The Sustain initiative builds on learnings from our design research project, [Project Sphere](http://projectsphere.startup.jaaga.in)._

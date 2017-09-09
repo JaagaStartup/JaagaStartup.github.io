@@ -18,7 +18,7 @@ Since 2009 over 400 of us have worked, learned, played and grown together. Our f
 Key benefits of membership include 24x7 access, no deposits or contracts, advice on best practices from peer experts and over [$150,000 worth of perks](/coworking/) from our partners such as Microsoft, IBM, Amazon Web Services, paytm, Stripe and more.
 
 ![Collage][collage]
-_For more browse through our [photo gallery](http://gallery.jaagastartup.in) and our [Facebook page](https://facebook.com/JaagaStartup)._
+_For more browse through our [photo gallery](http://gallery.startup.jaaga.in) and our [Facebook page](https://facebook.com/JaagaStartup)._
 
 
 [logo]: /public/logo.png "Jaaga Startup Brandmark"
