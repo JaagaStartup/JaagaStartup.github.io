@@ -17,13 +17,13 @@ permalink:        pretty
 title:            Jaaga Startup
 tagline:          'Share skills and office space with startups and freelancers in Bangalore'
 description:      'Cowork, Collaborate, Grow'
-url:              http://startup.jaaga.in
+url:              http://jaagastartup.github.io
 baseurl:          
 
 author:
   name:           'Jaaga Startup'
-  url:            https://www.facebook.com/JaagaStartup
-  email:          startup@jaaga.in
+  url:            https://www.facebook.com/Jaagarnaut
+  email:          hello@jaaga.in
 
 # paginate:         5
 # paginate_path:    "/blog/page:num/"
